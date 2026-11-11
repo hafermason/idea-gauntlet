@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I build 1-6 homes a year and get my clients from referrals, so I'm not hunting for a new way to win jobs. I don't have the capacity to think about this right now, and any per-plan pricing for the website goes to the boss anyway.",
+  "objection": "My clients already come from referrals and I don't have time to add another thing to every job. A 3D walkthrough doesn't change how I get work, and the website thing isn't my call alone.",
+  "would_change_my_mind": "A client asking me for it on a specific job, or the boss saying he wants walkthroughs on the website and handing me a per-plan price to approve.",
+  "price_too_cheap": 300,
+  "price_cheap": 700,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

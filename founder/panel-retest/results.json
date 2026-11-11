@@ -1,0 +1,159 @@
+{
+ "business": "HomeWalk (hellohomewalk.com): turns a builder's 2D house plans into a browser-based 3D walkthrough and photoreal stills before the home is built",
+ "seed": 926996,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 3,
+ "passes": 17,
+ "buy_rate": 0.15,
+ "by_segment": [
+  [
+   "Sales, marketing or drafting lead at a spec/production builder with a library of 20-100+ plans",
+   5,
+   0.4
+  ],
+  [
+   "Owner of a mid-size custom/semi-custom builder (7-20 homes a year)",
+   5,
+   0.2
+  ],
+  [
+   "Owner of a small custom builder (1-6 homes a year, client brings or hires an architect)",
+   10,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Lost their renderer / open to a vendor",
+   2,
+   1.0
+  ],
+  [
+   "Bulk buyer for the website",
+   2,
+   0.5
+  ],
+  [
+   "Architect or in-house team already covers it",
+   8,
+   0.0
+  ],
+  [
+   "Sells with photos of finished homes",
+   2,
+   0.0
+  ],
+  [
+   "Too busy right now",
+   3,
+   0.0
+  ],
+  [
+   "Cost-plus pass-through",
+   3,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$167,000 to $306,000",
+   7,
+   0.2857142857142857
+  ],
+  [
+   "under $167,000",
+   6,
+   0.16666666666666666
+  ],
+  [
+   "$306,000 and up",
+   7,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "need",
+   10,
+   [
+    "My buyers come from referrals and have never asked to see a home before it's built. I sell with photos of finished homes, and I do 1-6 homes a year, so this is a nice extra I don't need.",
+    "My buyers have never asked for a 3D walkthrough before the home is built, and I've got more work than hours already. I'd say email me something and not get back to it."
+   ],
+   [
+    "P003",
+    "P004"
+   ]
+  ],
+  [
+   "habit",
+   4,
+   [
+    "My clients' architects already cover renders in their fee, and I'm in a truck all day, not shopping for extras. I wouldn't pay for it myself, and the homeowner would have to agree to it.",
+    "My architect already hands me renders as part of their fee, so I'm not paying a second outfit to model the same plans. Every time a client moves a wall I'd be burning revision rounds and waiting on someone else's turnaround."
+   ],
+   [
+    "P002",
+    "P006"
+   ]
+  ],
+  [
+   "timing",
+   2,
+   [
+    "I've got more work than hours and I'm in the truck all day. I'd say 'email me something' and never open it. No 3D today hasn't been costing me sales.",
+    "I've got more work than I can handle and my clients already pick from the architect's drawings. I'm not chasing a new vendor right now, and $1,500 a home comes straight off my margin."
+   ],
+   [
+    "P009",
+    "P014"
+   ]
+  ],
+  [
+   "price",
+   1,
+   [
+    "I bill cost-plus, so $1,500 either comes out of my margin or I have to talk the homeowner into a new line item, and most of my clients already have architect drawings they're happy with. With only a few homes a year I don't have a pile of jobs where nobody is producing 3D."
+   ],
+   [
+    "P015"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   3,
+   [
+    "My renderer is gone and I have plans going out with nothing to show buyers, so a one-day turnaround and pay-only-if-I-like-it on one of my current plans is a free test. I'd try the one plan; I'm not signing up for the whole library until I see it.",
+    "No deposit and I only pay if I like the first plan, so I'd hand over one current plan to see it. If it matches the drawings and my clients open the link, I'd think about it for the website. That's one plan, not a bulk order."
+   ],
+   [
+    "P001",
+    "P017"
+   ]
+  ]
+ ],
+ "flip": [
+  "If the homeowner paid for it directly and it didn't add another thing for me to coordinate with their architect.",
+  "A client of mine asking for it, or seeing it win a job from a past client or an architect I work with, plus clear terms on how plan changes after the two rounds are charged.",
+  "Seeing a competing builder's sales numbers or close rates go up because of walkthroughs, or a free demo on one of my plans that my sales team actually uses and buyers react to.",
+  "Proof that homeowners on my jobs will pay for it themselves and that it closes sales faster than what my architect gives me, on a job where there is no 3D today.",
+  "Unlimited revisions at a flat price with a same-day turnaround, on a job where my architect isn't producing any 3D.",
+  "A builder I know and respect in Utah telling me it closed a client or cut change orders, plus the free sample on one of my current plans showing my client actually wanting it.",
+  "Proof from another Utah builder that homeowners readily accept it as a pre-construction line item and that it cuts change orders or closes more sales, with a no-cost trial on one of my plans that costs me zero time.",
+  "A client of mine asking for it by name, or one finished example from a builder like me whose homes matched what got built.",
+  "Seeing that homeowners actually ask for it and will pay the fee themselves, or that it clearly helps close spec buyers faster, proven on one of my own plans for free.",
+  "A client of mine asking for it by name, or seeing it close a job faster, or an architect that doesn't do any 3D on a project I really want.",
+  "A client of mine actually asking to see their home in 3D before signing, or seeing it clearly close a signed contract faster on a job where I have no renders today.",
+  "A client who has no 3D from their architect asking me for it, plus a sample built on one of my own past jobs that matched the as-built home.",
+  "A client asking me for it by name, or the price rolled into the client's pre-construction line so it costs me nothing.",
+  "Seeing the free first build on one of my real plans and having a homeowner say they'd happily pay for it as a pre-construction line, or proof that it cuts change orders enough to cover the cost.",
+  "A homeowner of mine asking for it unprompted, or a free first project that visibly helped me close a signed job or avoid a change order.",
+  "A client asking me for it on a specific job, or the boss saying he wants walkthroughs on the website and handing me a per-plan price to approve.",
+  "A free pilot on one plan that visibly lifted contract conversions on a spec home, plus a per-plan price under about $150 so I could roll it across the library."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 20
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My clients' architects already cover renders in their fee, and I'm in a truck all day, not shopping for extras. I wouldn't pay for it myself, and the homeowner would have to agree to it.",
+  "objection": "The architect already does the 3D, so I'd be paying for something my client already gets, and I'm not the one who'd pay for it anyway.",
+  "would_change_my_mind": "If the homeowner paid for it directly and it didn't add another thing for me to coordinate with their architect.",
+  "price_too_cheap": 300,
+  "price_cheap": 700,
+  "price_expensive": 1500,
+  "price_too_expensive": 2500
+}

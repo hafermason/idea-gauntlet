@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "My buyers have never asked for a 3D walkthrough before the home is built, and I've got more work than hours already. I'd say email me something and not get back to it.",
+  "objection": "Our buyers don't ask for this before the build, so why would I pay $450 a plan across a library of 50-plus plans for something nobody's requesting?",
+  "would_change_my_mind": "Seeing a competing builder's sales numbers or close rates go up because of walkthroughs, or a free demo on one of my plans that my sales team actually uses and buyers react to.",
+  "price_too_cheap": 150,
+  "price_cheap": 250,
+  "price_expensive": 450,
+  "price_too_expensive": 800
+}

@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Tess",
+  "age": 35,
+  "segment": "Sales, marketing or drafting lead at a spec/production builder with a library of 20-100+ plans",
+  "income": 167000,
+  "behaviour": "Lost their renderer / open to a vendor",
+  "behaviour_how": "Previous rendering source went away or is leaving; actively looking for someone reliable.",
+  "objection": "My architect already does 3D for us",
+  "habit": "you meet clients at the design center, the lot, or the architect's office"
+ },
+ {
+  "id": "P002",
+  "name": "Fatima",
+  "age": 35,
+  "segment": "Owner of a small custom builder (1-6 homes a year, client brings or hires an architect)",
+  "income": 219000,
+  "behaviour": "Architect or in-house team already covers it",
+  "behaviour_how": "Their architect, designer or an in-house hire already makes 3D models or renders, usually paid inside the architecture fee.",
+  "objection": "I wouldn't pay for it; the homeowner would have to agree to it",
+  "habit": "you spend most days driving between job sites"
+ },
+ {
+  "id": "P003",
+  "name": "Talia",
+  "age": 64,
+  "segment": "Owner of a small custom builder (1-6 homes a year, client brings or hires an architect)",
+  "income": 235000,
+  "behaviour": "Sells with photos of finished homes",
+  "behaviour_how": "Uses Matterport or photos after the home is built; buyers have never asked to see it before construction.",
+  "objection": "What happens every time the client changes the plan?",
+  "habit": "you get most new clients from referrals and past buyers"
+ },
+ {
+  "id": "P004",
+  "name": "Declan",
+  "age": 51,
+  "segment": "Sales, marketing or drafting lead at a spec/production builder with a library of 20-100+ plans",
+  "income": 129000,
+  "behaviour": "Too busy right now",
+  "behaviour_how": "Has more work than time; says 'email me something' and rarely gets back to it.",
+  "objection": "Our buyers have never asked for this before the home is built",
+  "habit": "your receptionist screens most cold calls"
+ },
+ {
+  "id": "P005",
+  "name": "Yara",
+  "age": 45,
+  "segment": "Owner of a mid-size custom/semi-custom builder (7-20 homes a year)",
+  "income": 416000,
+  "behaviour": "Cost-plus pass-through",
+  "behaviour_how": "Bills homeowners cost-plus; will add a line item only if the homeowner agrees to pay for it.",
+  "objection": "My architect already does 3D for us",
+  "habit": "you spend most days driving between job sites"
+ },
+ {
+  "id": "P006",
+  "name": "Callum",
+  "age": 36,
+  "segment": "Owner of a mid-size custom/semi-custom builder (7-20 homes a year)",
+  "income": 653000,
+  "behaviour": "Architect or in-house team already covers it",
+  "behaviour_how": "Their architect, designer or an in-house hire already makes 3D models or renders, usually paid inside the architecture fee.",
+  "objection": "What happens every time the client changes the plan?",
+  "habit": "you entered a home in the Parade of Homes in the last couple of years"
+ },
+ {
+  "id": "P007",
+  "name": "Beatriz",
+  "age": 56,
+  "segment": "Owner of a small custom builder (1-6 homes a year, client brings or hires an architect)",
+  "income": 166000,
+  "behaviour": "Architect or in-house team already covers it",
+  "behaviour_how": "Their architect, designer or an in-house hire already makes 3D models or renders, usually paid inside the architecture fee.",
+  "objection": "Our buyers have never asked for this before the home is built",
+  "habit": "your receptionist screens most cold calls"
+ },
+ {
+  "id": "P008",
+  "name": "June",
+  "age": 34,
+  "segment": "Owner of a mid-size custom/semi-custom builder (7-20 homes a year)",
+  "income": 510000,
+  "behaviour": "Cost-plus pass-through",
+  "behaviour_how": "Bills homeowners cost-plus; will add a line item only if the homeowner agrees to pay for it.",
+  "objection": "I don't have the capacity to think about this right now",
+  "habit": "your receptionist screens most cold calls"
+ },
+ {
+  "id": "P009",
+  "name": "Pablo",
+  "age": 35,
+  "segment": "Owner of a mid-size custom/semi-custom builder (7-20 homes a year)",
+  "income": 357000,
+  "behaviour": "Too busy right now",
+  "behaviour_how": "Has more work than time; says 'email me something' and rarely gets back to it.",
+  "objection": "Will it actually match the plans? What if it shows something we won't build?",
+  "habit": "you spend most days driving between job sites"
+ },
+ {
+  "id": "P010",
+  "name": "Noah",
+  "age": 62,
+  "segment": "Sales, marketing or drafting lead at a spec/production builder with a library of 20-100+ plans",
+  "income": 82000,
+  "behaviour": "Architect or in-house team already covers it",
+  "behaviour_how": "Their architect, designer or an in-house hire already makes 3D models or renders, usually paid inside the architecture fee.",
+  "objection": "I wouldn't pay for it; the homeowner would have to agree to it",
+  "habit": "you bill homeowners cost-plus with a line for architecture and pre-construction"
+ },
+ {
+  "id": "P011",
+  "name": "Ruby",
+  "age": 35,
+  "segment": "Owner of a small custom builder (1-6 homes a year, client brings or hires an architect)",
+  "income": 314000,
+  "behaviour": "Architect or in-house team already covers it",
+  "behaviour_how": "Their architect, designer or an in-house hire already makes 3D models or renders, usually paid inside the architecture fee.",
+  "objection": "Our buyers have never asked for this before the home is built",
+  "habit": "your receptionist screens most cold calls"
+ },
+ {
+  "id": "P012",
+  "name": "Dev",
+  "age": 34,
+  "segment": "Owner of a small custom builder (1-6 homes a year, client brings or hires an architect)",
+  "income": 306000,
+  "behaviour": "Architect or in-house team already covers it",
+  "behaviour_how": "Their architect, designer or an in-house hire already makes 3D models or renders, usually paid inside the architecture fee.",
+  "objection": "Our buyers have never asked for this before the home is built",
+  "habit": "you bill homeowners cost-plus with a line for architecture and pre-construction"
+ },
+ {
+  "id": "P013",
+  "name": "Sofia",
+  "age": 58,
+  "segment": "Owner of a small custom builder (1-6 homes a year, client brings or hires an architect)",
+  "income": 125000,
+  "behaviour": "Architect or in-house team already covers it",
+  "behaviour_how": "Their architect, designer or an in-house hire already makes 3D models or renders, usually paid inside the architecture fee.",
+  "objection": "Will it actually match the plans? What if it shows something we won't build?",
+  "habit": "you get most new clients from referrals and past buyers"
+ },
+ {
+  "id": "P014",
+  "name": "Eli",
+  "age": 62,
+  "segment": "Owner of a small custom builder (1-6 homes a year, client brings or hires an architect)",
+  "income": 297000,
+  "behaviour": "Too busy right now",
+  "behaviour_how": "Has more work than time; says 'email me something' and rarely gets back to it.",
+  "objection": "Is $1,500 a home worth it on our margins?",
+  "habit": "your receptionist screens most cold calls"
+ },
+ {
+  "id": "P015",
+  "name": "Lucia",
+  "age": 51,
+  "segment": "Owner of a small custom builder (1-6 homes a year, client brings or hires an architect)",
+  "income": 307000,
+  "behaviour": "Cost-plus pass-through",
+  "behaviour_how": "Bills homeowners cost-plus; will add a line item only if the homeowner agrees to pay for it.",
+  "objection": "Is $1,500 a home worth it on our margins?",
+  "habit": "you bill homeowners cost-plus with a line for architecture and pre-construction"
+ },
+ {
+  "id": "P016",
+  "name": "Noor",
+  "age": 35,
+  "segment": "Owner of a small custom builder (1-6 homes a year, client brings or hires an architect)",
+  "income": 284000,
+  "behaviour": "Sells with photos of finished homes",
+  "behaviour_how": "Uses Matterport or photos after the home is built; buyers have never asked to see it before construction.",
+  "objection": "I wouldn't pay for it; the homeowner would have to agree to it",
+  "habit": "you bill homeowners cost-plus with a line for architecture and pre-construction"
+ },
+ {
+  "id": "P017",
+  "name": "Owen",
+  "age": 37,
+  "segment": "Owner of a mid-size custom/semi-custom builder (7-20 homes a year)",
+  "income": 302000,
+  "behaviour": "Bulk buyer for the website",
+  "behaviour_how": "Wants per-plan pricing for many plans to put walkthroughs on the company website; the boss decides with no deadline.",
+  "objection": "We've gotten a lot of calls from people doing that",
+  "habit": "you get most new clients from referrals and past buyers"
+ },
+ {
+  "id": "P018",
+  "name": "Celine",
+  "age": 36,
+  "segment": "Sales, marketing or drafting lead at a spec/production builder with a library of 20-100+ plans",
+  "income": 119000,
+  "behaviour": "Lost their renderer / open to a vendor",
+  "behaviour_how": "Previous rendering source went away or is leaving; actively looking for someone reliable.",
+  "objection": "Will it actually match the plans? What if it shows something we won't build?",
+  "habit": "your receptionist screens most cold calls"
+ },
+ {
+  "id": "P019",
+  "name": "Alma",
+  "age": 52,
+  "segment": "Owner of a small custom builder (1-6 homes a year, client brings or hires an architect)",
+  "income": 249000,
+  "behaviour": "Bulk buyer for the website",
+  "behaviour_how": "Wants per-plan pricing for many plans to put walkthroughs on the company website; the boss decides with no deadline.",
+  "objection": "I don't have the capacity to think about this right now",
+  "habit": "you get most new clients from referrals and past buyers"
+ },
+ {
+  "id": "P020",
+  "name": "Andre",
+  "age": 48,
+  "segment": "Sales, marketing or drafting lead at a spec/production builder with a library of 20-100+ plans",
+  "income": 158000,
+  "behaviour": "Architect or in-house team already covers it",
+  "behaviour_how": "Their architect, designer or an in-house hire already makes 3D models or renders, usually paid inside the architecture fee.",
+  "objection": "I wouldn't pay for it; the homeowner would have to agree to it",
+  "habit": "your receptionist screens most cold calls"
+ }
+]

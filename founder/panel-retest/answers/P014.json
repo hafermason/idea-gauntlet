@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I've got more work than I can handle and my clients already pick from the architect's drawings. I'm not chasing a new vendor right now, and $1,500 a home comes straight off my margin.",
+  "objection": "Is $1,500 a home worth it on our margins? I'd be eating it unless the client pays, and I don't have time to test another thing.",
+  "would_change_my_mind": "A client asking me for it by name, or the price rolled into the client's pre-construction line so it costs me nothing.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 900,
+  "price_too_expensive": 1500
+}

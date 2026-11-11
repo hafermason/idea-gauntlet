@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I bill cost-plus, so $1,500 either comes out of my margin or I have to talk the homeowner into a new line item, and most of my clients already have architect drawings they're happy with. With only a few homes a year I don't have a pile of jobs where nobody is producing 3D.",
+  "objection": "Is $1,500 a home worth it on our margins? If the homeowner won't pay for the line item I'm eating it, and I can't tell that a walkthrough saves me change orders or wins me a job.",
+  "would_change_my_mind": "Seeing the free first build on one of my real plans and having a homeowner say they'd happily pay for it as a pre-construction line, or proof that it cuts change orders enough to cover the cost.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 900,
+  "price_too_expensive": 1500
+}

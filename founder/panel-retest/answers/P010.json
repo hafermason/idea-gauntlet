@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Our architect already handles drawings and renders on our plans, and I bill cost-plus, so I wouldn't pay for this myself; the homeowner would have to agree to the charge. On our spec plans I'm not adding a line item buyers will question.",
+  "objection": "I wouldn't pay for it out of my margin, and getting a homeowner to agree to an extra line on a cost-plus bill is a hassle when their architect already covers visuals.",
+  "would_change_my_mind": "Seeing that homeowners actually ask for it and will pay the fee themselves, or that it clearly helps close spec buyers faster, proven on one of my own plans for free.",
+  "price_too_cheap": 150,
+  "price_cheap": 300,
+  "price_expensive": 900,
+  "price_too_expensive": 1500
+}

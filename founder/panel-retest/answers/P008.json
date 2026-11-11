@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I bill cost-plus, so $1,500 only gets added if the homeowner agrees to pay for it, and I'm not going to eat it or chase that conversation for a nice-to-have. My receptionist would screen this call anyway and I don't have the capacity to think about it right now.",
+  "objection": "Who pays? If the homeowner won't take it as a line item it comes out of my pocket, and my clients already get plans and renderings from the architect. Another vendor to coordinate with my architects is more work for me, not less.",
+  "would_change_my_mind": "Proof from another Utah builder that homeowners readily accept it as a pre-construction line item and that it cuts change orders or closes more sales, with a no-cost trial on one of my plans that costs me zero time.",
+  "price_too_cheap": 300,
+  "price_cheap": 600,
+  "price_expensive": 1500,
+  "price_too_expensive": 2500
+}

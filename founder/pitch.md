@@ -1,5 +1,5 @@
-HomeWalk, a Utah company, turns your house plans (PDF, CAD, Revit or SketchUp) into a 3D walkthrough your client opens in a web browser on their phone or computer, plus photoreal still images, before construction starts, so they can see the layout, light and finishes while changes are still cheap.
-Standard: $1,500 per home, an interactive walkthrough plus still images, delivered in about one business day once plans are complete. Revisions are $500 a round.
-Premium: up to $4,000 per home, adds a video flythrough and more high-quality stills for marketing.
-Branded with your company name. You can put it on the architecture or pre-construction line and pass it to the homeowner.
-To start: we build one of your current plans first, no deposit, and show it to you over lunch. You pay only if you like it.
+HomeWalk, a Utah company, lets your client walk through their home on their phone before construction starts: a branded 3D browser walkthrough plus photoreal stills, built from your plan set (PDF, CAD, Revit or SketchUp) in about one business day once plans are complete. It is made for jobs where nobody is producing 3D today, and it gives the client something architect drawings don't: a link they open and walk through on their own.
+No work on your end: give us your architect's name and we get the plans; you get a link by text. Two revision rounds are included until the plans are final.
+Plan-Match Guarantee: it is built to your drawings; if anything doesn't match, we fix it free before you pay. Every view is labeled as a concept visualization; your drawings govern.
+Prices: Custom home $1,500 (most builders put it on the pre-construction line, and we give you the wording). Premium with a video flythrough $2,500. Plan Library for builders with 10 or more plans: $450 per plan.
+To start: we build one of your current plans first, no deposit. You pay only if you like it. Lunch is optional.

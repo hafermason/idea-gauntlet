@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "My clients have never asked for a walkthrough before the home is built, and the architect we work with already covers renders in the design fee. I do 1-6 homes a year, so I'd be paying $1,500 for something nobody is asking me for.",
+  "objection": "Our buyers have never asked for this before the home is built, and my architect already handles 3D. I don't see what it adds that my client would pay for or that would change a signed deal.",
+  "would_change_my_mind": "A builder I know and respect in Utah telling me it closed a client or cut change orders, plus the free sample on one of my current plans showing my client actually wanting it.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 900,
+  "price_too_expensive": 1500
+}

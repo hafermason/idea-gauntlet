@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "My renderer is gone and I have plans going out with nothing to show buyers, so a one-day turnaround and pay-only-if-I-like-it on one of my current plans is a free test. I'd try the one plan; I'm not signing up for the whole library until I see it.",
+  "objection": "Does it actually look as good as the renders my old guy did, and will it hold up when I'm sitting across from a buyer at the design center? A phone walkthrough from plan sets can look flat or cheap, and my architect already does some 3D.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 300,
+  "price_cheap": 600,
+  "price_expensive": 1800,
+  "price_too_expensive": 3000
+}

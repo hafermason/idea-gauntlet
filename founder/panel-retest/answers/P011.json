@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "My architect already handles renders and it's baked into their fee. My clients have never asked for a walkthrough before we break ground, so I'd be adding a cost for something nobody's requesting.",
+  "objection": "Our buyers have never asked for this before the home is built, and my architect already covers 3D. I'd be paying twice for something that isn't moving a sale.",
+  "would_change_my_mind": "A client of mine asking for it by name, or seeing it close a job faster, or an architect that doesn't do any 3D on a project I really want.",
+  "price_too_cheap": 300,
+  "price_cheap": 600,
+  "price_expensive": 1800,
+  "price_too_expensive": 3000
+}

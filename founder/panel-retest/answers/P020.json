@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "We have plans in-house and our designer already covers renders, so I'm not paying a vendor per plan. And my buyers are spec buyers, so a custom-home walkthrough is a thing the homeowner would have to want, not me.",
+  "objection": "I wouldn't pay for it; the homeowner would have to agree to it. At $450 a plan across a library of 60 plans that's real money for something our in-house person already does.",
+  "would_change_my_mind": "A free pilot on one plan that visibly lifted contract conversions on a spec home, plus a per-plan price under about $150 so I could roll it across the library.",
+  "price_too_cheap": 100,
+  "price_cheap": 175,
+  "price_expensive": 350,
+  "price_too_expensive": 600
+}

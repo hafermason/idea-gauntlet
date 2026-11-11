@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "We lost our renderer and I need someone reliable, and a free first plan with no deposit means I only risk my time. If the first one matches our plans, I'd pay for it and probably start rolling out the library.",
+  "objection": "Will it actually match our plans, or will it show finishes and options we won't build? A buyer who walks a wrong version becomes my problem, not yours.",
+  "would_change_my_mind": "A free test on one of our own plans where my drafter checks it against the set and it matches, plus an example from another Utah builder.",
+  "price_too_cheap": 150,
+  "price_cheap": 300,
+  "price_expensive": 600,
+  "price_too_expensive": 900
+}

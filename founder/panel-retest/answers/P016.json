@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "My buyers have never asked to see their house before it's built, and I sell on photos of finished homes. I bill cost-plus, so any $1,500 goes onto the homeowner's bill, and I'd have to talk them into agreeing to it.",
+  "objection": "I wouldn't pay for it myself, and the homeowner would have to agree to the charge. Nobody has asked for this, so I'd be adding a line item to solve a problem they don't feel.",
+  "would_change_my_mind": "A homeowner of mine asking for it unprompted, or a free first project that visibly helped me close a signed job or avoid a change order.",
+  "price_too_cheap": 200,
+  "price_cheap": 500,
+  "price_expensive": 1200,
+  "price_too_expensive": 2000
+}
