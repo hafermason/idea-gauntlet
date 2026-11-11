@@ -1,5 +1,5 @@
-A Utah-based service that turns your 2D floor plans and site plans into a 3D walkthrough of the home before you break ground, so your client can see it before they commit.
-Basic: $1,500 per home, an interactive 3D walkthrough of the plan.
-Premium: $4,000 per home, the walkthrough plus a video flythrough and high-quality still renders for marketing.
-Built from the plans you already have, using AI tools and Blender; you can roll the cost into the home's price.
-To start: we build a free sample of one of your current plans and show it to you over lunch, no obligation.
+HomeWalk, a Utah company, turns your house plans (PDF, CAD, Revit or SketchUp) into a 3D walkthrough your client opens in a web browser on their phone or computer, plus photoreal still images, before construction starts, so they can see the layout, light and finishes while changes are still cheap.
+Standard: $1,500 per home, an interactive walkthrough plus still images, delivered in about one business day once plans are complete. Revisions are $500 a round.
+Premium: up to $4,000 per home, adds a video flythrough and more high-quality stills for marketing.
+Branded with your company name. You can put it on the architecture or pre-construction line and pass it to the homeowner.
+To start: we build one of your current plans first, no deposit, and show it to you over lunch. You pay only if you like it.
