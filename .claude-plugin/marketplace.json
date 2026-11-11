@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "idea-gauntlet",
+  "description": "Business ideas, generated and tested with the Founder skill pack",
+  "owner": {
+    "name": "hafermason",
+    "url": "https://github.com/hafermason"
+  },
+  "plugins": [
+    {
+      "name": "idea-gauntlet",
+      "description": "Four skills that generate business ideas and run each one through the Founder skill pack: scout, screen, the full gauntlet with kill gates, and a ranking.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/hafermason/idea-gauntlet"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "idea-gauntlet",
+  "description": "Find business ideas that fit you, then test each one fully with the Founder skill pack: a cheap screen first, the full eleven-step run with kill gates for the survivors, and a side-by-side ranking at the end.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hafermason",
+    "url": "https://github.com/hafermason"
+  },
+  "homepage": "https://github.com/hafermason/idea-gauntlet",
+  "repository": "https://github.com/hafermason/idea-gauntlet",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "business-ideas",
+    "startup",
+    "market-validation",
+    "founder-skill"
+  ]
+}
