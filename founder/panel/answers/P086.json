@@ -1,0 +1,13 @@
+{
+  "id": "P086",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I've got more work than hours right now and I'm not taking a lunch meeting to look at a demo. I'd say email me something and then never get back to it.",
+  "objection": "I don't have the capacity to think about this right now. Even a free trial costs me time: pulling a plan, getting a lunch on the calendar, and then changing how I show clients their homes.",
+  "would_change_my_mind": "Nothing about the pitch. I'd only look if one of my clients was stuck on a layout decision and someone else handled everything from a plan I send over.",
+  "price_too_cheap": 400,
+  "price_cheap": 900,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

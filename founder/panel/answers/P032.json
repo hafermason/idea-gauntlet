@@ -1,0 +1,13 @@
+{
+  "id": "P032",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I do a few homes a year and my architect already hands me renderings, and the clients walk the plans with me. If I add a line item the homeowner has to agree to pay for it, and most don't want one more fee.",
+  "objection": "I get calls from outfits like this all the time. Fifteen hundred a home is another line on a cost-plus bill my client has to approve, and I can't tell it beats what the architect already gives us.",
+  "would_change_my_mind": "A homeowner of mine asking for it and agreeing to pay the line, or the lunch demo of one of my plans showing something that clearly avoids a change order.",
+  "price_too_cheap": 300,
+  "price_cheap": 700,
+  "price_expensive": 1800,
+  "price_too_expensive": 3000
+}

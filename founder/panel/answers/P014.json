@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I bill cost-plus, so I wouldn't pay for it myself and the homeowner would have to agree to it. At $1,500 a home across 7 to 20 homes, that's real money for something the boss has no deadline to decide on.",
+  "objection": "I wouldn't pay for it; the homeowner would have to agree to it. I don't want to eat the cost, and I'm not sure clients will accept another line item on top of architecture and pre-con.",
+  "would_change_my_mind": "A homeowner telling me they'd happily pay for it, or evidence that it closes sales faster or cuts change orders enough to pay for itself.",
+  "price_too_cheap": 200,
+  "price_cheap": 500,
+  "price_expensive": 1200,
+  "price_too_expensive": 2500
+}

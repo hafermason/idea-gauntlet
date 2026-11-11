@@ -1,0 +1,13 @@
+{
+  "id": "P031",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I bill cost-plus, so I wouldn't eat $1,500 a home across a big plan library, and I'd only add it as a line item if the homeowner agrees to pay. Most of my buyers are spec and Parade of Homes traffic who walk a model or look at renderings I already have.",
+  "objection": "Who pays? The homeowner has to agree to a line item, and on spec homes there's no homeowner to bill, so it comes out of my margin on every plan.",
+  "would_change_my_mind": "A much lower per-plan price or a flat library deal, plus proof that homeowners will actually sign off on the line item or that it closes spec sales faster.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 900,
+  "price_too_expensive": 1500
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P079",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "My architect already does the 3D models and renders and it's baked into their fee, so I'd be paying twice for something my clients have never asked me for. I'm in trucks between job sites all day and I'm not setting up a lunch demo for a tool I don't have a gap for.",
+  "objection": "Our buyers have never asked for this before the home is built, and my architect already covers renders. It's a second line item for something already paid for.",
+  "would_change_my_mind": "Seeing it cut change orders on a real job, or it clearly beating what my architect hands over at no extra cost, with a lower per-home price on 15 homes a year.",
+  "price_too_cheap": 300,
+  "price_cheap": 600,
+  "price_expensive": 1500,
+  "price_too_expensive": 3000
+}

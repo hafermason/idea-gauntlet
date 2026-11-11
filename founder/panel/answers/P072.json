@@ -1,0 +1,13 @@
+{
+  "id": "P072",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My architect already does the 3D models and renders inside their fee, and I bill cost-plus, so a new line item means the homeowner has to sign off on it. I wouldn't pay for it out of my own pocket.",
+  "objection": "I'd be adding a second vendor for something my architect already gives me, and the homeowner would have to agree to pay for it. That is an awkward conversation on a cost-plus job.",
+  "would_change_my_mind": "If I could see it work on one of my own plans and a homeowner asked for it or said they'd pay for it, I might use it on a spec home where I pay and it helps me sell. I'd need proof it beats what my architect hands me.",
+  "price_too_cheap": 400,
+  "price_cheap": 800,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

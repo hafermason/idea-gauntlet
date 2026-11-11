@@ -1,0 +1,13 @@
+{
+  "id": "P060",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "At $1,500 a plan across a library of 50+ plans that's $75k+ I'd have to justify to the boss, and our margins on spec homes are thin. A walkthrough on the website is nice but I can't point to a sale it would close.",
+  "objection": "$1,500 a home doesn't pencil on our margins, and I have no proof walkthroughs sell more homes than the renderings and floor plans we already post.",
+  "would_change_my_mind": "A bulk library price around $150-300 a plan, or a pilot of a few plans with proof of more leads, plus a quote I can take to the boss.",
+  "price_too_cheap": 75,
+  "price_cheap": 200,
+  "price_expensive": 600,
+  "price_too_expensive": 1200
+}

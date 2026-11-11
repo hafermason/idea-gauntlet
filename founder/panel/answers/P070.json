@@ -1,0 +1,13 @@
+{
+  "id": "P070",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My architect already does 3D for us and it's folded into their fee, so I'd be paying twice for something I already get. I do 7-20 homes a year and I'm not adding another vendor to the pre-construction line.",
+  "objection": "My architect already does 3D for us. Why would I pay $1,500 a house for what's already covered, and who is going to chase this vendor when a client wants changes?",
+  "would_change_my_mind": "If it were clearly cheaper and faster than what my architect charges for revisions, and the lunch demo of one of my own plans actually beat their renders, I'd try it on a spec home.",
+  "price_too_cheap": 200,
+  "price_cheap": 500,
+  "price_expensive": 1500,
+  "price_too_expensive": 3000
+}

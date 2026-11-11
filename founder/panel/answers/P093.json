@@ -1,0 +1,13 @@
+{
+  "id": "P093",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "My buyers have never asked to see a home before it's built, and I sell with photos of finished houses. I'd worry a render shows something we won't actually build and sets up a fight over expectations.",
+  "objection": "Will it actually match the plans? What if it shows finishes or details we won't build and the buyer holds me to it?",
+  "would_change_my_mind": "The free sample of one of my current plans matches the plans exactly, and a client or two ask for it. Then I'd try it on a spec home I'm struggling to sell.",
+  "price_too_cheap": 300,
+  "price_cheap": 700,
+  "price_expensive": 1800,
+  "price_too_expensive": 3500
+}

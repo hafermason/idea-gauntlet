@@ -1,0 +1,13 @@
+{
+  "id": "P063",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I build 1-6 homes a year and my clients already have an architect doing renderings, so $1,500 a home comes straight off my margin for something I can't prove sells more. I'm buried right now and I'd read this email once and never answer it.",
+  "objection": "Is $1,500 a home worth it on our margins? The architect already shows the client the design, so I'm paying twice for something they may not even ask for.",
+  "would_change_my_mind": "If clients were actually asking for a walkthrough, or it cut change orders enough to clearly pay for itself, and the price was a few hundred dollars per home or I could pass the cost to the client.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 900,
+  "price_too_expensive": 1500
+}

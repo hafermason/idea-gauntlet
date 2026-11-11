@@ -1,0 +1,13 @@
+{
+  "id": "P027",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "We sell with photos of finished homes and buyers have never asked to see a home before it's built, so I have no pain this fixes. And with a library of 50+ plans, $1,500 a pop plus $500 every time the client changes something adds up fast.",
+  "objection": "What happens every time the client changes the plan? $500 a round on top of $1,500, across dozens of plans, for something my buyers have never asked for.",
+  "would_change_my_mind": "Seeing that buyers actually close faster or pay more for upgrades with it, and a flat per-plan price for the whole library with free revisions on our standard option changes.",
+  "price_too_cheap": 150,
+  "price_cheap": 300,
+  "price_expensive": 800,
+  "price_too_expensive": 1500
+}

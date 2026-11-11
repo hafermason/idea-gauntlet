@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I do 1-6 homes a year and my clients come from referrals. They hire an architect and the architect already shows them the plans. Nobody has ever asked me for a walkthrough before we break ground, so I'd be paying $1,500 a home to solve a problem my buyers don't tell me they have.",
+  "objection": "My buyers have never asked to see it before construction, and I sell off photos of finished homes. I get calls from people pitching this kind of thing all the time. I don't see it winning me a job or saving me a change order.",
+  "would_change_my_mind": "A client or architect I work with asking for it by name, or a builder I know showing me it caught a layout change that saved them real money on a job.",
+  "price_too_cheap": 300,
+  "price_cheap": 600,
+  "price_expensive": 1500,
+  "price_too_expensive": 3000
+}

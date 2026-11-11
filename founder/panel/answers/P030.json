@@ -1,0 +1,13 @@
+{
+  "id": "P030",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My clients bring or hire their own architect, and renders already come out of the architecture fee. I'm not adding $1,500 a home on top of that on a 1-6 home year.",
+  "objection": "Is $1,500 a home worth it on our margins when the architect or designer already covers 3D for the client?",
+  "would_change_my_mind": "If it replaced something I already pay for, or if I could charge it through to the client as a line item so it costs me nothing, I'd take the free lunch demo.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 900,
+  "price_too_expensive": 1500
+}

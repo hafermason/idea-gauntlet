@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "My buyers have never asked for this before the home is built, and I already have more work than time. I'd say 'email me something' and never get back to it.",
+  "objection": "Nobody has ever asked me for a 3D walkthrough before we break ground. Our architect already shows layouts and I don't want another vendor, another file handoff and another revision cycle on top of a full schedule.",
+  "would_change_my_mind": "A client of mine asking for it, or seeing it actually cut change orders on a job I'm already running, without me having to do any work to set it up.",
+  "price_too_cheap": 300,
+  "price_cheap": 700,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

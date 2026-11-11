@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "My architect already does 3D for us, and my buyers have never once asked to see a home before it's built. We sell off photos of finished homes, so I can't see where $1,500 a plan fits when I have 20-plus plans.",
+  "objection": "I don't have a problem this solves. Nobody has asked for it, my architect already covers 3D, and paying per home across a big plan library adds up fast for something buyers don't request.",
+  "would_change_my_mind": "Seeing that buyers sign faster or pay more for upgrades when they walk the home first, ideally with a flat price for my whole plan library instead of per-home pricing.",
+  "price_too_cheap": 250,
+  "price_cheap": 500,
+  "price_expensive": 1000,
+  "price_too_expensive": 2000
+}

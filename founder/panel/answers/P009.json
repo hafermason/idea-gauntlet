@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I'm in the truck between job sites all day and I don't have the capacity to think about this right now. If it showed up in my inbox I'd say 'email me something' and never get back to it.",
+  "objection": "I don't have time to send you a plan, sit down for a lunch, and review a demo. Even at $1,500 a home I'd have to pick which of my plans to push through, and I'm already behind.",
+  "would_change_my_mind": "Nothing about the offer itself. It would take you handling everything with zero work from me, like pulling a plan off our shared drive and sending me a link I can open on my phone from the truck.",
+  "price_too_cheap": 300,
+  "price_cheap": 700,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

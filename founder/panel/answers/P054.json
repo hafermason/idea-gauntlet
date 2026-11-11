@@ -1,0 +1,13 @@
+{
+  "id": "P054",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I have 20-100 plans and $1,500 each is real money for something the boss would have to sign off on, with no deadline pushing anyone. Our buyers pick from models and lots, and we already have floor plans and renderings, so it's a nice-to-have, not something I'd pay for.",
+  "objection": "At $1,500 a plan, doing my whole library is a huge bill, and I can't show the boss that a walkthrough sells more homes than the renderings we already have.",
+  "would_change_my_mind": "A per-plan price for bulk, something like a few hundred dollars each across the whole library, plus one sample plan that visibly gets buyers to call, so I can take numbers to the boss.",
+  "price_too_cheap": 50,
+  "price_cheap": 200,
+  "price_expensive": 600,
+  "price_too_expensive": 1200
+}

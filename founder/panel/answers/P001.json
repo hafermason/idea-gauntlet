@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I build 1-6 custom homes a year and half of them change after the architect hands me plans. I'm not putting something on my website that might show a client a house we won't build. Also the boss decides, and I'm on a job site, not looking at this.",
+  "objection": "Will it actually match the plans? If it shows a finish or a layout we won't build, I'm the one eating that conversation with the client.",
+  "would_change_my_mind": "Seeing my own plan done over lunch and it matching to the inch, plus a clear written rule that every walkthrough is labeled as a rendering and revisions are free when the plans change.",
+  "price_too_cheap": 400,
+  "price_cheap": 800,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

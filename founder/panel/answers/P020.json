@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My clients' architects already produce the 3D models and renders inside their fee, so I'd be paying for something already covered. My receptionist would likely never put this call through anyway.",
+  "objection": "Will it actually match the plans? If it shows finishes or details we won't build, I'm the one who gets blamed when the client says 'that's not what you showed me.'",
+  "would_change_my_mind": "If the architect I work with said they'd use it instead of their own renders, or I saw it built from one of my real plans and it matched exactly, with a clear disclaimer that protects me on anything not in the plans.",
+  "price_too_cheap": 250,
+  "price_cheap": 600,
+  "price_expensive": 1500,
+  "price_too_expensive": 3000
+}

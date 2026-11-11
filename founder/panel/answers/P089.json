@@ -1,0 +1,13 @@
+{
+  "id": "P089",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I don't have the capacity to think about this right now. I do 7 to 20 homes a year, I'm already busy, and this is not something I'd get around to.",
+  "objection": "Putting walkthroughs for lots of plans on the website is a decision for the boss, and nobody here has time to run a pilot, give you plans and sit through a lunch. I also don't know how it's priced for many plans, since $1,500 a home gets big fast.",
+  "would_change_my_mind": "A per-plan bulk price for the whole plan library that is clearly lower than $1,500 each, with you doing all the work and the boss seeing it without me having to arrange anything.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 1500,
+  "price_too_expensive": 3000
+}

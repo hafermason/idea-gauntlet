@@ -1,0 +1,13 @@
+{
+  "id": "P035",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My architect already does the 3D renders and it's built into their fee, and my clients come from referrals who trust me already. I wouldn't pay for it, and the homeowner would have to agree to it anyway.",
+  "objection": "I'd be paying twice for something the architect already hands over, and I'd have to get the homeowner to sign off on adding a charge.",
+  "would_change_my_mind": "If the homeowner asked for it and was willing to pay for it directly, or if it replaced the architect's renders at a lower cost.",
+  "price_too_cheap": 300,
+  "price_cheap": 600,
+  "price_expensive": 1500,
+  "price_too_expensive": 2500
+}

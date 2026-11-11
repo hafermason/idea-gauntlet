@@ -1,0 +1,13 @@
+{
+  "id": "P094",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Our architect and in-house drafting already produce the renders and it's baked into the design fee, so I'd be paying twice for something we already have. I'm not going to add a vendor for a library of plans we already sell off.",
+  "objection": "Will it actually match the plans? If it shows a finish, window or layout we won't build, I own that conversation with the buyer, and a one-day turnaround from PDFs makes me think nobody is checking it.",
+  "would_change_my_mind": "If the free lunch build of one of my current plans matched the drawings exactly and my architect couldn't match the price or speed, I'd consider it for a few plans, not the whole library.",
+  "price_too_cheap": 400,
+  "price_cheap": 800,
+  "price_expensive": 1800,
+  "price_too_expensive": 3000
+}

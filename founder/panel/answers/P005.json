@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Our architect and in-house drafter already turn out renders and models as part of the plan package, so I'd be paying twice for something I already get. I'm not putting $1,500 a house on a library of 20-100 plans.",
+  "objection": "Will it actually match the plans? If it shows a finish or a layout we won't build, I've got a buyer standing in my sales office pointing at something that isn't in the contract.",
+  "would_change_my_mind": "If it cost a few hundred dollars per plan, covered my whole plan library with a model reused on every lot, and I could see it match one of my plans exactly at the free lunch demo, I'd try it for my model-home sales.",
+  "price_too_cheap": 150,
+  "price_cheap": 300,
+  "price_expensive": 900,
+  "price_too_expensive": 1800
+}

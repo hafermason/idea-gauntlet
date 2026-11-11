@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My architect already does 3D for us, and I bill architecture and pre-construction cost-plus, so a new $1,500 line only goes in if the homeowner agrees to pay it. I'm not going to eat that cost or add a vendor to a process that already works.",
+  "objection": "My architect already does 3D renderings as part of his package, so this is a second bill for something the homeowner thinks they already get. I'd have to convince each client to pay extra, and I don't want that fight on every job.",
+  "would_change_my_mind": "If it turned out clients actually sign faster and stop making expensive change orders after framing, and I saw it on my own plan over lunch, I might try it on one job where the homeowner agrees to the line item.",
+  "price_too_cheap": 300,
+  "price_cheap": 600,
+  "price_expensive": 1200,
+  "price_too_expensive": 2000
+}

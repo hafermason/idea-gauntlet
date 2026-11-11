@@ -1,0 +1,13 @@
+{
+  "id": "P049",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My clients' architects already produce the renders and it's baked into their fee, so I'd be paying $1,500 a home for something that's already covered. On my margins I'm not adding a line item for that.",
+  "objection": "The architect already does the 3D, so this is a duplicate cost I'd either eat or have to talk my client into paying.",
+  "would_change_my_mind": "If it were noticeably cheaper per home or clearly made me close spec/semi-custom sales faster or win Parade of Homes traffic, enough that it paid for itself on a home where there's no architect rendering.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 900,
+  "price_too_expensive": 1500
+}

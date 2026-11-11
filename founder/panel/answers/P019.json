@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "My buyers pick from a standard plan library and the cost-plus pass-through means I'd only add a line item if the homeowner agrees to pay, and most won't for a renderings line. I'd also worry it shows finishes or options we won't actually build and sets us up for a dispute.",
+  "objection": "Will it actually match the plans? What if it shows something we won't build? That's a liability and a change-order headache for me, and I'd be eating the $1,500 if the homeowner won't pay for it.",
+  "would_change_my_mind": "Seeing my own plan done for free, accurate down to our real standard finishes and options, and a homeowner or buyer who agrees up front to pay the line item.",
+  "price_too_cheap": 300,
+  "price_cheap": 600,
+  "price_expensive": 1500,
+  "price_too_expensive": 2500
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My clients' architects already do the renders, and it's inside their fee. I'm out on job sites all day and I'm not adding another vendor for something I'm already getting.",
+  "objection": "Will it actually match the plans? If it shows my client something we won't build, I'm the one eating the change order and the argument.",
+  "would_change_my_mind": "A client who has no architect-made 3D and asks me for one, plus a trial build of one of my own plans that matches the drawings exactly.",
+  "price_too_cheap": 300,
+  "price_cheap": 800,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

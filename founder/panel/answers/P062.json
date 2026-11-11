@@ -1,0 +1,13 @@
+{
+  "id": "P062",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "At $1,500 a plan across a library of 50-plus plans that's $75K, and I couldn't get my boss to sign that with no deadline pushing him. I also don't have the bandwidth to pull plans and sit through a lunch demo this month.",
+  "objection": "I need per-plan pricing for dozens of plans for the website, and nothing here says what a bulk price looks like. $1,500 each doesn't work for a spec library, and I can't sell it to the boss.",
+  "would_change_my_mind": "A bulk or library price well under $500 a plan for the website walkthroughs, with the free sample on one of our plans so I can show the boss something he can look at without me doing extra work.",
+  "price_too_cheap": 75,
+  "price_cheap": 200,
+  "price_expensive": 600,
+  "price_too_expensive": 1200
+}

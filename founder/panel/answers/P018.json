@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "My clients already work from their architect's renderings, and I only add a line item if the homeowner agrees to pay for it. I'm not going to eat $1,500 a home on something nobody asked me for.",
+  "objection": "What happens every time the client changes the plan? At $500 a round I'm either eating that cost or fighting the homeowner over a new line item, and they change plans constantly.",
+  "would_change_my_mind": "A homeowner who says up front they'll pay for it, or the free sample of one of my real plans looking good and revisions being much cheaper or included until framing.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 1200,
+  "price_too_expensive": 2500
+}

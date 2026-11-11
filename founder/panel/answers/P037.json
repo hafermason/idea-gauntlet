@@ -1,0 +1,13 @@
+{
+  "id": "P037",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My architect already produces 3D models and renders inside their fee, so I'd be paying twice for something I already get. And I bill cost-plus, so a new line item means the homeowner has to sign off on it.",
+  "objection": "The architect already covers renders, and the homeowner would have to agree to pay for a second visualization on top of the architecture line.",
+  "would_change_my_mind": "If it replaced work my architect is already charging for, so the homeowner's total went down or stayed flat, or if it was clearly shown to cut change orders on a job I could point to.",
+  "price_too_cheap": 400,
+  "price_cheap": 700,
+  "price_expensive": 1500,
+  "price_too_expensive": 2500
+}

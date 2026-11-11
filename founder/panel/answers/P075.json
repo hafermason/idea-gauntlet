@@ -1,0 +1,13 @@
+{
+  "id": "P075",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My clients bring their own architect, and the architect or designer already does the renders as part of the fee. I'm not going to pay $1,500 a home for something that's already covered, and I don't want a second set of images floating around.",
+  "objection": "Will it actually match the plans? If it shows something we won't build, I'm the one who gets blamed when the client sees the real house.",
+  "would_change_my_mind": "If a couple of my clients' architects said they'd hand over plans and wanted this, and the lunch demo matched the drawings exactly, I'd try one. Even then it would have to be something I could bill to the client on top.",
+  "price_too_cheap": 200,
+  "price_cheap": 500,
+  "price_expensive": 1500,
+  "price_too_expensive": 3000
+}

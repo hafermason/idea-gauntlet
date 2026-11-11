@@ -1,0 +1,13 @@
+{
+  "id": "P043",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I've got more work than I can handle right now, and I'm not going to sit down for a lunch demo on something that isn't on fire. Also I wouldn't pay for it myself; the homeowner would have to agree to it, and half my clients just look at the plans and the model home anyway.",
+  "objection": "I wouldn't pay for it; the homeowner would have to agree to it. $1,500 a home on top of everything else, and I don't have time to chase clients to approve it or to review a sample.",
+  "would_change_my_mind": "If the homeowner paid for it as a line item and it saved me change orders, and someone handled the whole thing without me having to touch it.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 1500,
+  "price_too_expensive": 3000
+}

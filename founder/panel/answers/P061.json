@@ -1,0 +1,13 @@
+{
+  "id": "P061",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My architect already does 3D for us and it's built into their fee, so paying $1,500 a home on top is paying twice. Most of my clients come from referrals and already trust me, so I don't need renders to close them.",
+  "objection": "My architect already does the 3D and it's in their fee. I'd be paying again for something I already get, and I don't want a third party in the middle of my client and my architect.",
+  "would_change_my_mind": "If it did something my architect's renders can't, like a live walkthrough clients can change finishes in, and it cut change orders enough to show real savings on a build I already have underway.",
+  "price_too_cheap": 400,
+  "price_cheap": 700,
+  "price_expensive": 1500,
+  "price_too_expensive": 2500
+}

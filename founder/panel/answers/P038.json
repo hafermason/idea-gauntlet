@@ -1,0 +1,13 @@
+{
+  "id": "P038",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I'm driving between job sites all day and don't have the capacity to take on another thing right now. I bill cost-plus, so I'd have to get the homeowner to agree to a line item, and that's one more conversation I don't want.",
+  "objection": "My clients already have their architect's drawings and I'd have to sell them on paying for this. If they say no, it comes out of my pocket or I eat the time. Plus a lunch demo is time I don't have.",
+  "would_change_my_mind": "A homeowner or architect on one of my current jobs asking for it and agreeing in writing to pay the line item.",
+  "price_too_cheap": 300,
+  "price_cheap": 700,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

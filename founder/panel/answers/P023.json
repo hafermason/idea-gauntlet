@@ -1,0 +1,13 @@
+{
+  "id": "P023",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "My renderer is gone and I'm actively looking, so a free trial on one of my own plans over lunch costs me nothing but an hour. If it looks good I'd pay $1,500 for a home, since showing the client the layout before we frame is worth it.",
+  "objection": "I don't have the capacity to think about this right now, and I don't know if a Utah company I've never heard of will still be around, or get my architect's plans right, when I have a client waiting.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 400,
+  "price_cheap": 900,
+  "price_expensive": 2200,
+  "price_too_expensive": 3500
+}

@@ -1,0 +1,257 @@
+{
+ "business": "HomeWalk (hellohomewalk.com): turns a builder's 2D house plans into a browser-based 3D walkthrough and photoreal stills before the home is built",
+ "seed": 926996,
+ "dealt": 100,
+ "answered": 100,
+ "skipped": [],
+ "buys": 11,
+ "passes": 89,
+ "buy_rate": 0.11,
+ "by_segment": [
+  [
+   "Owner of a small custom builder (1-6 homes a year, client brings or hires an architect)",
+   50,
+   0.12
+  ],
+  [
+   "Sales, marketing or drafting lead at a spec/production builder with a library of 20-100+ plans",
+   25,
+   0.12
+  ],
+  [
+   "Owner of a mid-size custom/semi-custom builder (7-20 homes a year)",
+   25,
+   0.08
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Lost their renderer / open to a vendor",
+   10,
+   1.0
+  ],
+  [
+   "Cost-plus pass-through",
+   15,
+   0.06666666666666667
+  ],
+  [
+   "Bulk buyer for the website",
+   10,
+   0.0
+  ],
+  [
+   "Architect or in-house team already covers it",
+   40,
+   0.0
+  ],
+  [
+   "Sells with photos of finished homes",
+   10,
+   0.0
+  ],
+  [
+   "Too busy right now",
+   15,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$189,000 to $312,000",
+   33,
+   0.12121212121212122
+  ],
+  [
+   "$312,000 and up",
+   34,
+   0.11764705882352941
+  ],
+  [
+   "under $189,000",
+   33,
+   0.09090909090909091
+  ]
+ ],
+ "why_not": [
+  [
+   "habit",
+   41,
+   [
+    "We already get renders and plans through the architect or our in-house people, and I'm in my truck between lots most days. I'm not adding a vendor and a per-home fee when the homeowner would have to agree to pay it anyway.",
+    "My architect already does 3D for us, and I bill architecture and pre-construction cost-plus, so a new $1,500 line only goes in if the homeowner agrees to pay it. I'm not going to eat that cost or add a vendor to a process that already works."
+   ],
+   [
+    "P003",
+    "P008"
+   ]
+  ],
+  [
+   "need",
+   23,
+   [
+    "I do 1-6 homes a year and my clients come from referrals. They hire an architect and the architect already shows them the plans. Nobody has ever asked me for a walkthrough before we break ground, so I'd be paying $1,500 a home to solve a problem my buyers don't tell me they have.",
+    "Our architect and in-house drafter already turn out renders and models as part of the plan package, so I'd be paying twice for something I already get. I'm not putting $1,500 a house on a library of 20-100 plans."
+   ],
+   [
+    "P004",
+    "P005"
+   ]
+  ],
+  [
+   "timing",
+   16,
+   [
+    "I do 1-6 homes a year and most of my work comes from referrals, so a walkthrough isn't something I'm missing right now. I don't have the capacity to think about this, and the boss decides on website stuff anyway.",
+    "I'm in the truck between job sites all day and I don't have the capacity to think about this right now. If it showed up in my inbox I'd say 'email me something' and never get back to it."
+   ],
+   [
+    "P002",
+    "P009"
+   ]
+  ],
+  [
+   "price",
+   5,
+   [
+    "I bill cost-plus, so I wouldn't eat $1,500 a home across a big plan library, and I'd only add it as a line item if the homeowner agrees to pay. Most of my buyers are spec and Parade of Homes traffic who walk a model or look at renderings I already have.",
+    "I bill cost-plus, so I'm not eating $1,500 a home out of my own pocket. I'd only add it as a line if the homeowner agrees, and the architect already gives my clients renderings."
+   ],
+   [
+    "P031",
+    "P050"
+   ]
+  ],
+  [
+   "trust",
+   4,
+   [
+    "I build 1-6 custom homes a year and half of them change after the architect hands me plans. I'm not putting something on my website that might show a client a house we won't build. Also the boss decides, and I'm on a job site, not looking at this.",
+    "My buyers pick from a standard plan library and the cost-plus pass-through means I'd only add a line item if the homeowner agrees to pay, and most won't for a renderings line. I'd also worry it shows finishes or options we won't actually build and sets us up for a dispute."
+   ],
+   [
+    "P001",
+    "P019"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   9,
+   [
+    "My renderer is gone and I need someone reliable. A free first plan with no deposit and pay-only-if-I-like-it means I lose nothing by trying, and $1,500 a home is small next to what a change order costs once framing starts.",
+    "My renderer is gone and I need someone reliable, and the free test on one of my own plans with no deposit makes it easy to try. $1,500 a home is fine since I bill it through the pre-con line anyway."
+   ],
+   [
+    "P006",
+    "P012"
+   ]
+  ],
+  [
+   "trust",
+   2,
+   [
+    "My renderer is gone and I do need someone, and a free build of one of my plans with no deposit costs me nothing but a lunch. I'd pay for one plan if it looks right, but I'm not committing to a batch until I see it.",
+    "Clients keep asking me to show them the house before we build, and no deposit with pay-only-if-I-like-it means I risk a lunch. If it looks right and I can pass the $1,500 through on the architecture line, I'd run it on one plan."
+   ],
+   [
+    "P053",
+    "P077"
+   ]
+  ]
+ ],
+ "flip": [
+  "Seeing my own plan done over lunch and it matching to the inch, plus a clear written rule that every walkthrough is labeled as a rendering and revisions are free when the plans change.",
+  "Seeing the walkthrough of one of my own plans, built free, that a client or the boss would actually look at, plus a bulk per-plan price well under $1,500 for putting many plans on the site.",
+  "A flat price for my whole plan library, or proof that it closes spec home sales faster and the buyer pays for it, not me.",
+  "A client or architect I work with asking for it by name, or a builder I know showing me it caught a layout change that saved them real money on a job.",
+  "If it cost a few hundred dollars per plan, covered my whole plan library with a model reused on every lot, and I could see it match one of my plans exactly at the free lunch demo, I'd try it for my model-home sales.",
+  "Seeing that buyers sign faster or pay more for upgrades when they walk the home first, ideally with a flat price for my whole plan library instead of per-home pricing.",
+  "If it turned out clients actually sign faster and stop making expensive change orders after framing, and I saw it on my own plan over lunch, I might try it on one job where the homeowner agrees to the line item.",
+  "Nothing about the offer itself. It would take you handling everything with zero work from me, like pulling a plan off our shared drive and sending me a link I can open on my phone from the truck.",
+  "If my architect's 3D didn't cover finishes and lighting and a client of mine was stalling on selections, and you could just take the plans from the architect and send me the link with zero effort from me.",
+  "Proof that it sells homes faster in a Parade of Homes setting, and a price low enough per plan (a few hundred dollars) that I could just run my whole library through it without anyone on my team having to manage it.",
+  "A client of mine asking for it, or seeing it actually cut change orders on a job I'm already running, without me having to do any work to set it up.",
+  "A homeowner telling me they'd happily pay for it, or evidence that it closes sales faster or cuts change orders enough to pay for itself.",
+  "A client who has no architect-made 3D and asks me for one, plus a trial build of one of my own plans that matches the drawings exactly.",
+  "If it worked from my existing library plans for spec homes where there's no architect doing 3D, at well under $500 a plan, so I could eat it as a sales cost without a homeowner approving a line item.",
+  "A homeowner who says up front they'll pay for it, or the free sample of one of my real plans looking good and revisions being much cheaper or included until framing.",
+  "Seeing my own plan done for free, accurate down to our real standard finishes and options, and a homeowner or buyer who agrees up front to pay the line item.",
+  "If the architect I work with said they'd use it instead of their own renders, or I saw it built from one of my real plans and it matched exactly, with a clear disclaimer that protects me on anything not in the plans.",
+  "If the homeowner or architect paid for it and it just showed up in my inbox with no work from me, I'd pass it along.",
+  "If buyers in our sales center were visibly closing faster or paying for upgrades because of it, and the homeowner agreed to pay for it as a line item so it cost us nothing.",
+  "If it were clearly cheaper and faster than what my architect charges for revisions, or if it showed buyers on spec homes finishes and options that my architect's renders don't, and I could see that on one of my own plans first.",
+  "If it were clearly cheaper than what the architect charges for renders and I could swap it in on a job where the architect isn't doing 3D, and a past client said it cut change orders.",
+  "A flat per-plan price that covers every option and revision on that plan, so I pay once for the plan and reuse it across every lot and buyer.",
+  "Seeing that buyers actually close faster or pay more for upgrades with it, and a flat per-plan price for the whole library with free revisions on our standard option changes.",
+  "If a homeowner asked me for a walkthrough and was willing to pay for it as a line item, or if it replaced something I already pay for rather than adding to it.",
+  "Seeing that clients sign faster or make fewer costly change orders because of it, or an architect I work with offering to bundle it into their fee so it doesn't come out of my pocket.",
+  "If it replaced something I already pay for, or if I could charge it through to the client as a line item so it costs me nothing, I'd take the free lunch demo.",
+  "A much lower per-plan price or a flat library deal, plus proof that homeowners will actually sign off on the line item or that it closes spec sales faster.",
+  "A homeowner of mine asking for it and agreeing to pay the line, or the lunch demo of one of my plans showing something that clearly avoids a change order.",
+  "Proof from another Utah spec builder that it measurably sped up pre-sales or cut change orders, at a per-plan price that works across a 50-plan library.",
+  "A client of mine asking for a walkthrough the architect can't do, plus a sample from one of my real plans that matches what we'd build, down to finishes and the framing.",
+  "If the homeowner asked for it and was willing to pay for it directly, or if it replaced the architect's renders at a lower cost.",
+  "If it did something my architect's 3D can't, like a client walking through finishes and selections on their phone, and you handled everything with my architect directly so I didn't have to lift a finger.",
+  "If it replaced work my architect is already charging for, so the homeowner's total went down or stayed flat, or if it was clearly shown to cut change orders on a job I could point to.",
+  "A homeowner or architect on one of my current jobs asking for it and agreeing in writing to pay the line item.",
+  "Seeing it built from one of our plans at lunch, free, and matching the plans exactly, with a way to lock it to our standard options. Even then I'd likely only use it on a model home or a plan that's hard to sell.",
+  "If it came out clearly cheaper and better than what my architect gives me, and homeowners agreed to pay for it as an upgrade, or it measurably helped sell spec homes.",
+  "A client of mine actually asking for a walkthrough, or proof that it cuts change orders enough to save me real money on a build.",
+  "Unlimited or very cheap revisions, and a flat per-plan library price (build the plan once, reuse it across every lot and elevation) that comes in well under what my architect charges me.",
+  "If the homeowner paid for it as a line item and it saved me change orders, and someone handled the whole thing without me having to touch it.",
+  "Seeing that buyers actually sign sooner or pay for more upgrades when they get a walkthrough, ideally from another Utah builder my size.",
+  "A free sample of one of my actual plans that I can check line by line against the drawings, plus a clear statement that it's illustrative only, and a bulk per-plan price for the website walkthroughs well under $1,500.",
+  "Seeing it handle my own plan better than my architect's renders, and it being something I could pass to the homeowner as a billable pre-construction line, so it pays for itself and cuts change orders.",
+  "If I could show a homeowner it directly cuts change orders and a few of them said they'd pay for it as a line item, or if it were a flat fee for my whole plan library.",
+  "If it were noticeably cheaper per home or clearly made me close spec/semi-custom sales faster or win Parade of Homes traffic, enough that it paid for itself on a home where there's no architect rendering.",
+  "A homeowner or architect who asks for it by name and agrees in writing to pay it as a pass-through line.",
+  "Unlimited or flat-fee revisions until the plans are locked, and proof it works with the architect's files so I'm not paying twice.",
+  "A homeowner or my designer asking for it by name and agreeing in writing to pay it as a pass-through, or seeing it close a sale on a spec home.",
+  "A per-plan price for bulk, something like a few hundred dollars each across the whole library, plus one sample plan that visibly gets buyers to call, so I can take numbers to the boss.",
+  "Proof that it closes a spec buyer or avoids change orders worth well over $1,500, and a price closer to $300-500 a home.",
+  "If the homeowner or architect agreed to pay for it, and it showed up done with no work from me, I'd pass it along.",
+  "A few of my own clients asking to see their home in 3D before we break ground, or a per-plan price low enough to put a walkthrough on my website as a marketing piece.",
+  "If it replaced what my architect charges for renders, or if homeowners were asking for a walkthrough and happily paying the line item myself.",
+  "A sample built from one of my own plans that matched exactly, handed to me with zero work on my end, plus a clear promise that I'm not on the hook for anything it shows wrongly.",
+  "A bulk library price around $150-300 a plan, or a pilot of a few plans with proof of more leads, plus a quote I can take to the boss.",
+  "If it did something my architect's renders can't, like a live walkthrough clients can change finishes in, and it cut change orders enough to show real savings on a build I already have underway.",
+  "A bulk or library price well under $500 a plan for the website walkthroughs, with the free sample on one of our plans so I can show the boss something he can look at without me doing extra work.",
+  "If clients were actually asking for a walkthrough, or it cut change orders enough to clearly pay for itself, and the price was a few hundred dollars per home or I could pass the cost to the client.",
+  "A client asking me for it on a job, or seeing it run on one of my own plans and matching it exactly, including finishes I'd really spec.",
+  "If my architect's 3D can't do a phone-friendly walkthrough my buyers can open themselves, and someone just handed me a finished one of my own plan with no meeting needed.",
+  "A client or architect I work with asking me for a walkthrough, or a clear case of it winning me a job or avoiding a change order that cost more than $1,500.",
+  "If it saved me real change-order money on a job and it cost closer to $500 a home, or the architect included it, I'd look at it when things slow down.",
+  "A live sample of one of my own plans, sent to me with no meeting, where revisions are included or cheap enough that I'm not paying per change.",
+  "Unlimited or very cheap revisions through the design phase, and proof it saves me a change order or two on a real job, not just a nicer picture.",
+  "If it were clearly cheaper and faster than what my architect charges for revisions, and the lunch demo of one of my own plans actually beat their renders, I'd try it on a spec home.",
+  "Proof that it sells or closes buyers faster on my spec homes, or a deal where I only pay when a client signs, priced well under $500 a home.",
+  "If I could see it work on one of my own plans and a homeowner asked for it or said they'd pay for it, I might use it on a spec home where I pay and it helps me sell. I'd need proof it beats what my architect hands me.",
+  "A homeowner or architect who asks for it by name and agrees in writing to pay for it as a line item, or a free trial on a current job that the client loves.",
+  "A sample built from one of my own plans that I can open on my phone in five minutes with no meeting, plus a written guarantee that it matches the drawings or the revisions are free.",
+  "If a couple of my clients' architects said they'd hand over plans and wanted this, and the lunch demo matched the drawings exactly, I'd try one. Even then it would have to be something I could bill to the client on top.",
+  "A bulk price per plan for the whole library, like a few hundred dollars each, and the boss saying yes up front, plus proof from another builder that it moved leads or sales.",
+  "A client who was holding up a signature or a change order because they couldn't picture the layout, and it arrived with no work on my end beyond forwarding a link.",
+  "Seeing it cut change orders on a real job, or it clearly beating what my architect hands over at no extra cost, with a lower per-home price on 15 homes a year.",
+  "Seeing it over lunch on one of my real plans, and a couple of Parade homeowners telling me it cut change orders enough that they'd happily pay for it. Then it's an easy line item to sell.",
+  "If it was cheaper than what my architect charges me for renders and I could show it to buyers before I even hire an architect, I'd look at it. Otherwise no.",
+  "If my clients or their architects started asking to see the home before construction, or the homeowner agreed to pay for it as a line item.",
+  "A homeowner telling me they want it and agreeing in writing to pay for it, or proof it cuts change orders enough to save me real money mid-build.",
+  "If it worked for clients who come with no architect and no renders, with unlimited or very cheap revisions included, I'd take a look.",
+  "Nothing about the pitch. I'd only look if one of my clients was stuck on a layout decision and someone else handled everything from a plan I send over.",
+  "If it were a few hundred dollars a home, or my clients were actually asking for a walkthrough on their phone and it helped me close sales or avoid change orders, I'd take the free lunch demo.",
+  "A per-plan bulk price for the whole plan library that is clearly lower than $1,500 each, with you doing all the work and the boss seeing it without me having to arrange anything.",
+  "If the homeowner or architect asked for it and agreed to pay for it, and it saved me change-order headaches, I'd pass it through.",
+  "A homeowner or buyer actually asking to walk the house before we break ground, or a sample of one of my own plans that arrives with zero work from me and clearly closes deals faster.",
+  "The free sample of one of my current plans matches the plans exactly, and a client or two ask for it. Then I'd try it on a spec home I'm struggling to sell.",
+  "If the free lunch build of one of my current plans matched the drawings exactly and my architect couldn't match the price or speed, I'd consider it for a few plans, not the whole library.",
+  "If it were clearly something clients ask me for that the architect doesn't deliver, and I could bill it to the client as a line item so it costs me nothing.",
+  "If the free sample of one of my current plans matched the drawings exactly, my clients preferred it to what the architect gave them, and it was cheap enough to use on spec homes where there's no architect render.",
+  "Proof it actually closes spec buyers faster, plus a price low enough (a few hundred a plan) that I can use it across the plan library without a budget fight.",
+  "If the homeowner asked for it themselves and agreed in writing to pay it as a separate line item, or if it replaced something I'm already paying for.",
+  "If it replaced what my architect charges for renders and revisions were free or near-free, or a builder I know told me it closed sales faster."
+ ],
+ "purchases_first_month_per_buyer": 1.0909090909090908,
+ "price_answers": 100
+}

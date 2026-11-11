@@ -1,0 +1,13 @@
+{
+  "id": "P039",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Our architect already does the renders and it's baked into their fee, and most of our buyers come from referrals who already know us. I'm not adding a second vendor and $1,500 a plan across a big library for something we're already covered on.",
+  "objection": "Will it actually match the plans? If it shows a finish, window or layout we won't build, I'm the one answering to the buyer.",
+  "would_change_my_mind": "Seeing it built from one of our plans at lunch, free, and matching the plans exactly, with a way to lock it to our standard options. Even then I'd likely only use it on a model home or a plan that's hard to sell.",
+  "price_too_cheap": 200,
+  "price_cheap": 500,
+  "price_expensive": 1200,
+  "price_too_expensive": 2500
+}

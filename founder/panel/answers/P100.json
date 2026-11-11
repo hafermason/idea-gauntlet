@@ -1,0 +1,13 @@
+{
+  "id": "P100",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My architect and in-house guy already do 3D renders as part of the fee, so I'm not paying twice for something I already get. And my receptionist would never put a cold call from this through.",
+  "objection": "What happens every time the client changes the plan? $500 a round adds up fast when clients change things constantly, and I already get renders from my architect.",
+  "would_change_my_mind": "If it replaced what my architect charges for renders and revisions were free or near-free, or a builder I know told me it closed sales faster.",
+  "price_too_cheap": 300,
+  "price_cheap": 600,
+  "price_expensive": 1500,
+  "price_too_expensive": 3000
+}

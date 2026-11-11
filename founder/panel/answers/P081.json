@@ -1,0 +1,13 @@
+{
+  "id": "P081",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I do 1-6 homes a year and the architect already gives my clients renderings. I'd have to get a homeowner to agree to a line item for it, and most won't pay extra for something they think the architect covers.",
+  "objection": "I bill cost-plus and only add a line if the homeowner says yes. For $1,500 on top of what the architect already provides, I'm the one stuck eating it when the client says no.",
+  "would_change_my_mind": "Seeing it over lunch on one of my real plans, and a couple of Parade homeowners telling me it cut change orders enough that they'd happily pay for it. Then it's an easy line item to sell.",
+  "price_too_cheap": 250,
+  "price_cheap": 600,
+  "price_expensive": 1500,
+  "price_too_expensive": 3000
+}

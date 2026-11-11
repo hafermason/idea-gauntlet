@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My architect already does 3D for us, and I bill cost-plus, so a $1,500 line item the homeowner has to agree to is a hard sell when they're already getting renderings. I don't need another vendor in the loop.",
+  "objection": "My architect already does 3D for us. Why would I pay a second company $1,500 a home and then have to convince the buyer to cover it?",
+  "would_change_my_mind": "If it worked from my existing library plans for spec homes where there's no architect doing 3D, at well under $500 a plan, so I could eat it as a sales cost without a homeowner approving a line item.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 900,
+  "price_too_expensive": 1500
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P048",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "My renderer is gone and I need someone reliable, and a free build of one of my own plans with no deposit costs me a lunch. If it looks good I'd pay for that one plan and then see how it holds up.",
+  "objection": "I get calls from people doing this all the time and most of them can't deliver the same quality twice. I need to know the one-day turnaround holds when I send 10 plans, and that the walkthrough matches what we actually build.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 400,
+  "price_cheap": 900,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

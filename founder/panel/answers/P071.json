@@ -1,0 +1,13 @@
+{
+  "id": "P071",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My architect already does the 3D models and renders and it's baked into their fee, so I'd be paying twice for something clients already get. On 7-20 homes a year, $1,500 each is real money off my margin.",
+  "objection": "Is $1,500 a home worth it on our margins when my architect's renders already cover this and most of my clients come from referrals anyway?",
+  "would_change_my_mind": "Proof that it sells or closes buyers faster on my spec homes, or a deal where I only pay when a client signs, priced well under $500 a home.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 900,
+  "price_too_expensive": 1500
+}

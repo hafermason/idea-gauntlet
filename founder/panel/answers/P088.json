@@ -1,0 +1,13 @@
+{
+  "id": "P088",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "My architect already produces 3D models and renders inside their fee, so I'd be paying $1,500 a home for something I already get. On 7 to 20 homes that's real money off my margin.",
+  "objection": "My architect already covers renders. Why pay $1,500 a home, plus $500 a revision, for a second version of what I already have?",
+  "would_change_my_mind": "If it were a few hundred dollars a home, or my clients were actually asking for a walkthrough on their phone and it helped me close sales or avoid change orders, I'd take the free lunch demo.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 900,
+  "price_too_expensive": 1500
+}

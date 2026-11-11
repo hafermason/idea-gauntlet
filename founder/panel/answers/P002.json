@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I do 1-6 homes a year and most of my work comes from referrals, so a walkthrough isn't something I'm missing right now. I don't have the capacity to think about this, and the boss decides on website stuff anyway.",
+  "objection": "I build a handful of homes a year and the clients already come to me through word of mouth. I can't see $1,500 a plan for the website paying me back, and I don't have time to pull plans together and babysit another vendor.",
+  "would_change_my_mind": "Seeing the walkthrough of one of my own plans, built free, that a client or the boss would actually look at, plus a bulk per-plan price well under $1,500 for putting many plans on the site.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 1200,
+  "price_too_expensive": 2500
+}

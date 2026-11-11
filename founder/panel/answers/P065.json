@@ -1,0 +1,13 @@
+{
+  "id": "P065",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My architect already does 3D for us, and I've got more work than hours. If this shows up in my inbox I'll skim it and never get back to it.",
+  "objection": "I already get 3D from my architect, so why pay $1,500 a home for something I have covered? And I don't have time to sit through a lunch demo.",
+  "would_change_my_mind": "If my architect's 3D can't do a phone-friendly walkthrough my buyers can open themselves, and someone just handed me a finished one of my own plan with no meeting needed.",
+  "price_too_cheap": 300,
+  "price_cheap": 600,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

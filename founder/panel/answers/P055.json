@@ -1,0 +1,13 @@
+{
+  "id": "P055",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My clients bring their own architect, and renders are already part of the architecture fee. I'm not paying $1,500 a home on top of that on 1-6 homes a year, and my receptionist would have screened this call anyway.",
+  "objection": "Is $1,500 a home worth it on our margins when the architect already covers renders?",
+  "would_change_my_mind": "Proof that it closes a spec buyer or avoids change orders worth well over $1,500, and a price closer to $300-500 a home.",
+  "price_too_cheap": 100,
+  "price_cheap": 300,
+  "price_expensive": 800,
+  "price_too_expensive": 1500
+}

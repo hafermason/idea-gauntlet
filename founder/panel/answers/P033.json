@@ -1,0 +1,13 @@
+{
+  "id": "P033",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Our buyers have never asked for this before the home is built, and we already get plans, elevations and renderings through our architect and in-house people. I'm not adding $1,500 a home across a big plan library for something nobody is requesting.",
+  "objection": "Spec buyers don't ask for a walkthrough of an unbuilt home, and we already have renderings covered inside the architecture fee, so this is a cost with no sale attached to it.",
+  "would_change_my_mind": "Proof from another Utah spec builder that it measurably sped up pre-sales or cut change orders, at a per-plan price that works across a 50-plan library.",
+  "price_too_cheap": 200,
+  "price_cheap": 400,
+  "price_expensive": 1000,
+  "price_too_expensive": 2000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "My renderer is gone and I do need someone, and a free build of one of my own plans with nothing owed unless I like it is hard to say no to. I'd take the lunch, and if the walkthrough looks right I'd pay the $1,500.",
+  "objection": "I'm in a truck all day and don't have time to chase another vendor. If the plans I hand over come back wrong, or it takes me three rounds at $500 each, it's more trouble than my old guy was.",
+  "would_change_my_mind": "If the free sample came back wrong or ugly, or needed a lot of my time to fix, I'd drop it.",
+  "price_too_cheap": 400,
+  "price_cheap": 900,
+  "price_expensive": 2200,
+  "price_too_expensive": 3500
+}

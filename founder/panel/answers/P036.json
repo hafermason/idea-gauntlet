@@ -1,0 +1,13 @@
+{
+  "id": "P036",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "My architect already does 3D for us, so I'd be paying $1,500 a home to duplicate something my clients already get. And I've got more work than time; I'm not sitting down to lunch for a demo.",
+  "objection": "My architect already does 3D for us. Why would I pay for a second set of renderings, and who's going to send you the plans and review it when I'm already swamped?",
+  "would_change_my_mind": "If it did something my architect's 3D can't, like a client walking through finishes and selections on their phone, and you handled everything with my architect directly so I didn't have to lift a finger.",
+  "price_too_cheap": 200,
+  "price_cheap": 500,
+  "price_expensive": 1500,
+  "price_too_expensive": 3000
+}

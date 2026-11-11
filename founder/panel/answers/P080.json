@@ -1,0 +1,13 @@
+{
+  "id": "P080",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "My renderer is gone and I need someone reliable. A no-deposit trial on one of my current plans, paid only if I like it, is low risk, and $1,500 is small next to a custom home. I'd try it on one build and treat it as a line item on the architecture side.",
+  "objection": "I wouldn't pay for it myself; the homeowner has to agree to it. Whether a client signs off on a $1,500 charge depends on the job. Also, is a one-day turnaround real, and does it hold up on the odd custom details my architects draw?",
+  "would_change_my_mind": "If the lunch demo looked cheap or generic, or I couldn't pass the cost to the homeowner as a pre-construction line, I'd walk.",
+  "price_too_cheap": 400,
+  "price_cheap": 900,
+  "price_expensive": 2200,
+  "price_too_expensive": 3500
+}

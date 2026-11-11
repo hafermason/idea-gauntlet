@@ -1,0 +1,13 @@
+{
+  "id": "P047",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "We get pitched on 3D walkthroughs constantly and most of my clients come from referrals who already trust us, so I don't have a problem this solves. For spec homes from a plan library, $1,500 a pop is hard to justify when we can show a model or past builds.",
+  "objection": "I can't bill it cost-plus unless the homeowner agrees to pay, and most won't pay $1,500 for something they didn't ask for. So it would come out of my margin.",
+  "would_change_my_mind": "If I could show a homeowner it directly cuts change orders and a few of them said they'd pay for it as a line item, or if it were a flat fee for my whole plan library.",
+  "price_too_cheap": 300,
+  "price_cheap": 600,
+  "price_expensive": 1200,
+  "price_too_expensive": 2000
+}

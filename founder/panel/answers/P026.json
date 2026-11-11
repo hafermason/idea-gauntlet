@@ -1,0 +1,13 @@
+{
+  "id": "P026",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "We already have renders and plan packages coming out of our architect and design team, and I'm in a truck between lots all day, so I'm not adding another vendor to chase. At $1,500 a home across a library of plans it adds up fast, and I don't see why I'd pay it on top of what's already covered.",
+  "objection": "What happens every time the client changes the plan? $500 a round on top adds up, and in spec and semi-custom we tweak plans constantly, so I can't tell what a home really costs me.",
+  "would_change_my_mind": "A flat per-plan price that covers every option and revision on that plan, so I pay once for the plan and reuse it across every lot and buyer.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 900,
+  "price_too_expensive": 1800
+}

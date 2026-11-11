@@ -1,0 +1,13 @@
+{
+  "id": "P068",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I'm driving between job sites all day and I have more work than time. I'd say 'email me something' and never get back to it. Even if it looks nice, I don't have time to sit down for a lunch demo this month.",
+  "objection": "What happens every time the client changes the plan? $500 a round adds up fast on a custom home, and I'd be paying to redo it while my own guys already handle selections and the walkthrough in person.",
+  "would_change_my_mind": "A live sample of one of my own plans, sent to me with no meeting, where revisions are included or cheap enough that I'm not paying per change.",
+  "price_too_cheap": 300,
+  "price_cheap": 800,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

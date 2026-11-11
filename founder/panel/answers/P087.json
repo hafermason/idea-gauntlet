@@ -1,0 +1,13 @@
+{
+  "id": "P087",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "My renderer is gone and I do need someone reliable, and since it's billed on the pre-construction line the client pays, not me. No deposit and I only pay if I like the sample on my own plan, so there's little to lose by taking the lunch.",
+  "objection": "My clients have never asked for this before the house is built, so I worry it's an extra I'm selling them. I also don't know if they'll actually open a link and use it, or if the plans come out accurate enough that I'm correcting finishes every round at $500.",
+  "would_change_my_mind": "If the sample of my own plan came out wrong on layout or finishes, or I needed more than one revision to get it right, I'd walk.",
+  "price_too_cheap": 300,
+  "price_cheap": 800,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

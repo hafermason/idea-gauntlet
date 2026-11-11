@@ -1,0 +1,13 @@
+{
+  "id": "P077",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "trust",
+  "reason": "Clients keep asking me to show them the house before we build, and no deposit with pay-only-if-I-like-it means I risk a lunch. If it looks right and I can pass the $1,500 through on the architecture line, I'd run it on one plan.",
+  "objection": "I only add a line item if the homeowner agrees to pay for it, so if they balk it comes out of my margin. And I'm not sure the renders will match what we actually build, which is how I end up with an angry client.",
+  "would_change_my_mind": "Seeing my own plan done accurately with our real finishes, and a homeowner or two who said yes to paying for it.",
+  "price_too_cheap": 300,
+  "price_cheap": 800,
+  "price_expensive": 2200,
+  "price_too_expensive": 3500
+}

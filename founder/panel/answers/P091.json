@@ -1,0 +1,13 @@
+{
+  "id": "P091",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I don't have the capacity to think about this right now. My buyers have never asked to see a home before it's built, and I sell off photos of finished houses, so I'm not going to sit through a lunch demo for something nobody is asking me for.",
+  "objection": "Nobody's asking for it. I'd be adding one more thing to run on every job, and I'd have to get plans to them and handle revision rounds, when I'm already stretched.",
+  "would_change_my_mind": "A homeowner or buyer actually asking to walk the house before we break ground, or a sample of one of my own plans that arrives with zero work from me and clearly closes deals faster.",
+  "price_too_cheap": 400,
+  "price_cheap": 800,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

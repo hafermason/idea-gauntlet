@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "We already get renders and plans through the architect or our in-house people, and I'm in my truck between lots most days. I'm not adding a vendor and a per-home fee when the homeowner would have to agree to pay it anyway.",
+  "objection": "With a library of 50-plus plans, $1,500 a home adds up fast and I can't charge the buyer for it. The architect already covers this, so I'd be paying twice.",
+  "would_change_my_mind": "A flat price for my whole plan library, or proof that it closes spec home sales faster and the buyer pays for it, not me.",
+  "price_too_cheap": 150,
+  "price_cheap": 300,
+  "price_expensive": 800,
+  "price_too_expensive": 1500
+}

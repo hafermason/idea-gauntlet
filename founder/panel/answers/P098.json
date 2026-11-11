@@ -1,0 +1,13 @@
+{
+  "id": "P098",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Our architect already does the renders as part of their fee, and most of our buyers come from referrals who don't need a 3D walkthrough to say yes. We've had a lot of calls from people offering this.",
+  "objection": "I'd be paying $1,500 a home for something our architect already covers inside their fee, and my referral buyers don't ask for it.",
+  "would_change_my_mind": "Proof it actually closes spec buyers faster, plus a price low enough (a few hundred a plan) that I can use it across the plan library without a budget fight.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 1000,
+  "price_too_expensive": 1800
+}

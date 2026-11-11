@@ -1,0 +1,13 @@
+{
+  "id": "P052",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I don't have the capacity to think about this right now. I bill cost-plus, so I'd only add it if a homeowner agrees to pay, and I'm not going to chase that for $1,500 a home.",
+  "objection": "I'd be eating the cost or fighting the homeowner over a new line item, and my team already has plans, a designer and Parade-style renderings. Another vendor to manage isn't worth it.",
+  "would_change_my_mind": "A homeowner or my designer asking for it by name and agreeing in writing to pay it as a pass-through, or seeing it close a sale on a spec home.",
+  "price_too_cheap": 300,
+  "price_cheap": 600,
+  "price_expensive": 1800,
+  "price_too_expensive": 3000
+}

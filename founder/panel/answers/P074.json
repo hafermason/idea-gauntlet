@@ -1,0 +1,13 @@
+{
+  "id": "P074",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I've got more work than hours, and this is one more vendor to learn and one more thing to coordinate with my architect. Free lunch pilot is nice, but I'd say 'email me something' and never get back to it.",
+  "objection": "Will it actually match the plans? If it shows finishes or details we won't build, I've created a change-order argument with the homeowner before we've poured anything.",
+  "would_change_my_mind": "A sample built from one of my own plans that I can open on my phone in five minutes with no meeting, plus a written guarantee that it matches the drawings or the revisions are free.",
+  "price_too_cheap": 400,
+  "price_cheap": 900,
+  "price_expensive": 2200,
+  "price_too_expensive": 3500
+}

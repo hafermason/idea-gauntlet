@@ -1,0 +1,13 @@
+{
+  "id": "P050",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I bill cost-plus, so I'm not eating $1,500 a home out of my own pocket. I'd only add it as a line if the homeowner agrees, and the architect already gives my clients renderings.",
+  "objection": "The homeowner has to sign off on paying for it, and most of mine think they already paid for design with the architect. I'm not going to argue another line item.",
+  "would_change_my_mind": "A homeowner or architect who asks for it by name and agrees in writing to pay it as a pass-through line.",
+  "price_too_cheap": 400,
+  "price_cheap": 800,
+  "price_expensive": 1800,
+  "price_too_expensive": 3000
+}

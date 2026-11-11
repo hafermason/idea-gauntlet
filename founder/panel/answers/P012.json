@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "need",
+  "reason": "My renderer is gone and I need someone reliable, and the free test on one of my own plans with no deposit makes it easy to try. $1,500 a home is fine since I bill it through the pre-con line anyway.",
+  "objection": "Will it actually match the plans? If it shows a finish, window or layout we won't build and a buyer holds me to it, that's on me.",
+  "would_change_my_mind": "If the lunch sample doesn't match my plan set exactly, or they can't show me how finishes and options are controlled so it only shows what we build.",
+  "price_too_cheap": 300,
+  "price_cheap": 800,
+  "price_expensive": 2500,
+  "price_too_expensive": 4000
+}

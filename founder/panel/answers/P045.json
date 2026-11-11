@@ -1,0 +1,13 @@
+{
+  "id": "P045",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I do 1-6 homes a year and the plans are usually still moving. If it shows something we won't build, I've got a client upset over a render I put my name on. My architects already hand me drawings, and $1,500 a plan is real money on a cost-plus job when I'm not sure the client even wants it.",
+  "objection": "Will it actually match the plans? What if it shows finishes or details we won't build and the client holds me to it?",
+  "would_change_my_mind": "A free sample of one of my actual plans that I can check line by line against the drawings, plus a clear statement that it's illustrative only, and a bulk per-plan price for the website walkthroughs well under $1,500.",
+  "price_too_cheap": 300,
+  "price_cheap": 600,
+  "price_expensive": 1200,
+  "price_too_expensive": 2000
+}

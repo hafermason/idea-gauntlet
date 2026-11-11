@@ -1,0 +1,13 @@
+{
+  "id": "P034",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My clients bring their own architect, and the renders are already in the architect's fee. I'm on job sites all day and I'm not adding another vendor to a plan set that's already covered.",
+  "objection": "Will it actually match the plans? If it shows the client something we won't build, I'm the one eating the change order and the argument.",
+  "would_change_my_mind": "A client of mine asking for a walkthrough the architect can't do, plus a sample from one of my real plans that matches what we'd build, down to finishes and the framing.",
+  "price_too_cheap": 300,
+  "price_cheap": 700,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
+}

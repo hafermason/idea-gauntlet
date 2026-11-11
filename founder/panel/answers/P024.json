@@ -1,0 +1,13 @@
+{
+  "id": "P024",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My architect already does 3D for us and it's baked into the design fee, so paying $1,500 a home on top of that is paying twice for something I already get. I'd have to see a real reason to add a vendor.",
+  "objection": "My architect already does 3D for us. Why would I pay a second company per home for what's already covered, and who do I call when the renders don't match the plans we actually build?",
+  "would_change_my_mind": "If it were clearly cheaper and faster than what my architect charges for revisions, or if it showed buyers on spec homes finishes and options that my architect's renders don't, and I could see that on one of my own plans first.",
+  "price_too_cheap": 300,
+  "price_cheap": 600,
+  "price_expensive": 1500,
+  "price_too_expensive": 3000
+}

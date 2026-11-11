@@ -1,0 +1,90 @@
+{
+ "n": 100,
+ "seed": 926996,
+ "customer": {
+  "business": "HomeWalk (hellohomewalk.com): turns a builder's 2D house plans into a browser-based 3D walkthrough and photoreal stills before the home is built",
+  "target": "Owners, sales or marketing leads at Utah custom and spec/semi-custom home builders who decide how an unbuilt home is shown to clients or buyers",
+  "where": "Utah: Utah County, Salt Lake, Heber/Park City, St. George",
+  "age": [
+   30,
+   64
+  ],
+  "segments": [
+   {
+    "name": "Owner of a small custom builder (1-6 homes a year, client brings or hires an architect)",
+    "share": 0.5,
+    "income": [
+     120000,
+     350000
+    ]
+   },
+   {
+    "name": "Owner of a mid-size custom/semi-custom builder (7-20 homes a year)",
+    "share": 0.25,
+    "income": [
+     250000,
+     700000
+    ]
+   },
+   {
+    "name": "Sales, marketing or drafting lead at a spec/production builder with a library of 20-100+ plans",
+    "share": 0.25,
+    "income": [
+     70000,
+     180000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Architect or in-house team already covers it",
+    "share": 0.4,
+    "how": "Their architect, designer or an in-house hire already makes 3D models or renders, usually paid inside the architecture fee."
+   },
+   {
+    "name": "Cost-plus pass-through",
+    "share": 0.15,
+    "how": "Bills homeowners cost-plus; will add a line item only if the homeowner agrees to pay for it."
+   },
+   {
+    "name": "Too busy right now",
+    "share": 0.15,
+    "how": "Has more work than time; says 'email me something' and rarely gets back to it."
+   },
+   {
+    "name": "Sells with photos of finished homes",
+    "share": 0.1,
+    "how": "Uses Matterport or photos after the home is built; buyers have never asked to see it before construction."
+   },
+   {
+    "name": "Lost their renderer / open to a vendor",
+    "share": 0.1,
+    "how": "Previous rendering source went away or is leaving; actively looking for someone reliable."
+   },
+   {
+    "name": "Bulk buyer for the website",
+    "share": 0.1,
+    "how": "Wants per-plan pricing for many plans to put walkthroughs on the company website; the boss decides with no deadline."
+   }
+  ],
+  "objections": [
+   "My architect already does 3D for us",
+   "I wouldn't pay for it; the homeowner would have to agree to it",
+   "I don't have the capacity to think about this right now",
+   "Our buyers have never asked for this before the home is built",
+   "We've gotten a lot of calls from people doing that",
+   "Will it actually match the plans? What if it shows something we won't build?",
+   "What happens every time the client changes the plan?",
+   "Is $1,500 a home worth it on our margins?"
+  ],
+  "habits": [
+   "you meet clients at the design center, the lot, or the architect's office",
+   "you entered a home in the Parade of Homes in the last couple of years",
+   "you spend most days driving between job sites",
+   "you bill homeowners cost-plus with a line for architecture and pre-construction",
+   "you get most new clients from referrals and past buyers",
+   "your receptionist screens most cold calls"
+  ]
+ },
+ "pitch": "HomeWalk, a Utah company, turns your house plans (PDF, CAD, Revit or SketchUp) into a 3D walkthrough your client opens in a web browser on their phone or computer, plus photoreal still images, before construction starts, so they can see the layout, light and finishes while changes are still cheap.\nStandard: $1,500 per home, an interactive walkthrough plus still images, delivered in about one business day once plans are complete. Revisions are $500 a round.\nPremium: up to $4,000 per home, adds a video flythrough and more high-quality stills for marketing.\nBranded with your company name. You can put it on the architecture or pre-construction line and pass it to the homeowner.\nTo start: we build one of your current plans first, no deposit, and show it to you over lunch. You pay only if you like it."
+}

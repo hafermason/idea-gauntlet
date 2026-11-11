@@ -1,0 +1,13 @@
+{
+  "id": "P067",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I've got more work than time and my clients come from referrals, so I'm not hunting for ways to sell homes. $1,500 a home on my margins is hard to justify when I'd have to dig out plans and sit through a lunch for something I don't need right now.",
+  "objection": "Is $1,500 a home worth it on our margins? My clients already come by referral and bring their own architect, so I don't see who I'm paying for.",
+  "would_change_my_mind": "If it saved me real change-order money on a job and it cost closer to $500 a home, or the architect included it, I'd look at it when things slow down.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 1000,
+  "price_too_expensive": 2000
+}

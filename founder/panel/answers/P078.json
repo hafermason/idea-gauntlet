@@ -1,0 +1,13 @@
+{
+  "id": "P078",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I've got more work than hours, and I'm not taking on one more thing to look at and decide on. My clients already see the plans with the architect, so this isn't solving a problem I'm feeling this week.",
+  "objection": "I don't have the capacity to think about this right now, and a lunch to review a demo is time I don't have. Fifteen hundred a home on 1-6 homes a year is real money for something my architect may already cover.",
+  "would_change_my_mind": "A client who was holding up a signature or a change order because they couldn't picture the layout, and it arrived with no work on my end beyond forwarding a link.",
+  "price_too_cheap": 300,
+  "price_cheap": 700,
+  "price_expensive": 1800,
+  "price_too_expensive": 3000
+}
