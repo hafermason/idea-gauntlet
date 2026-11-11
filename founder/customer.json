@@ -1,0 +1,36 @@
+{
+  "business": "3D Walkthroughs (working name): turns a builder's 2D plans into a 3D walkthrough, flythrough video and renders before the home is built",
+  "target": "Owners or sales leads of Utah custom and semi-custom luxury home builders (homes roughly $1M+), who decide how a home is marketed and priced before construction",
+  "where": "Utah: Wasatch Front, Utah County, Park City, St. George",
+  "age": [32, 64],
+  "segments": [
+    {"name": "Owner of a small custom builder (2-6 luxury homes a year)", "share": 0.45, "income": [150000, 350000]},
+    {"name": "Owner of a mid-size custom builder (7-20 homes a year, Parade regular)", "share": 0.35, "income": [300000, 800000]},
+    {"name": "Sales or marketing lead at a larger luxury/semi-custom builder (20+ homes a year)", "share": 0.20, "income": [110000, 220000]}
+  ],
+  "behaviours": [
+    {"name": "Relationship buyer", "share": 0.20, "how": "Works with the same subs and designers for years; tries someone new only through a referral."},
+    {"name": "Already has a plan designer who does renders", "share": 0.20, "how": "Their architect or plan designer already produces renders in Chief Architect or similar as part of the plans."},
+    {"name": "Parade of Homes marketer", "share": 0.15, "how": "Spends real money each year on Parade entries, photography and staging to win buyers."},
+    {"name": "Cost cutter", "share": 0.15, "how": "Margins are tight with interest rates and lumber; every line item in the bid gets questioned."},
+    {"name": "Tech-curious", "share": 0.10, "how": "Likes new tools, has tried Matterport or VR, asks what else is possible."},
+    {"name": "Clients find us by word of mouth", "share": 0.20, "how": "Has more work than crews; doesn't feel a need to market harder."}
+  ],
+  "objections": [
+    "My plan designer already gives me renders",
+    "My clients would rather put that money into finishes",
+    "Will it actually match the plan, or show things we won't build?",
+    "AI-made? Will it look cheap next to a $2M house?",
+    "What happens every time the client changes the plan?",
+    "I can get renders online for less",
+    "Does this actually help me sell or close faster?",
+    "Who are you, and who else have you done this for?"
+  ],
+  "habits": [
+    "you meet clients at the design center or on the lot",
+    "you entered a home in the Parade of Homes last year",
+    "you spend most days driving between job sites",
+    "you price homes with a cost-plus or fixed-bid sheet your estimator builds",
+    "you get most new clients from referrals and past buyers"
+  ]
+}
