@@ -10,6 +10,7 @@ export function buildPrompt({ shellId, colorId, deckId, addonIds = [], placement
     `Edit the attached backyard photo. Add one inground fiberglass pool: Liberty ${s.name}${size}, rectangular, ${c.name} shell finish.`,
     `Place it inside the marked box: center at ${Math.round(placement.x)}% from the left and ${Math.round(placement.y)}% from the top, about ${widthPct}% of the photo width, long side turned ${placement.rot} degrees.`,
     `Surround it with about 4 feet of ${d.name.toLowerCase()} decking and light coping.`,
+    `In the marked copy, the solid magenta outline is the exact edge of the pool water and the dashed outline is the outer edge of the decking. Match both outlines in size and position; do not make the pool or deck larger. Do not draw the magenta lines in the result.`,
     ...addonIds.map(id => option(id).prompt_sentence),
     `Use the attached shell reference image for the exact shape, steps and benches.`,
     `Match the photo's camera angle, lens distortion, lighting and shadows. Keep the house, fence, trees, sky and everything outside the box unchanged. Photorealistic, no people, no text.`,

@@ -7,11 +7,12 @@ const num = v => (v === undefined || v === '' ? null : Number(v));
 
 // Streams the response (stream=true, partial_images): a high-quality edit takes 60-120 s, and
 // streaming keeps the connection alive through proxies and serverless timeouts (~30 s here).
-async function openaiRender({ prompt, images, model = process.env.OPENAI_IMAGE_MODEL || 'gpt-image-2' }) {
+async function openaiRender({ prompt, images, mask, model = process.env.OPENAI_IMAGE_MODEL || 'gpt-image-2' }) {
   const form = new FormData();
   form.append('model', model);
   form.append('prompt', prompt);
   for (const im of images) form.append('image[]', new Blob([im.buffer], { type: im.mime }), im.name);
+  if (mask) form.append('mask', new Blob([mask], { type: 'image/png' }), 'mask.png');
   form.append('size', process.env.OPENAI_IMAGE_SIZE || 'auto');
   form.append('quality', process.env.OPENAI_IMAGE_QUALITY || 'high');
   form.append('stream', 'true');

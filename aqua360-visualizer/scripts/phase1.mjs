@@ -8,7 +8,7 @@ import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { shell as getShell } from '../src/catalog.mjs';
 import { buildPrompt } from '../src/prompt.mjs';
-import { normalizePhoto, drawMarkedBox } from '../src/photo.mjs';
+import { normalizePhoto, drawMarkedBox, editMask } from '../src/photo.mjs';
 import { render, PROVIDERS, keyFor } from '../src/providers.mjs';
 import { writeSheet } from './sheet.mjs';
 
@@ -55,7 +55,9 @@ for (const y of yards) {
     if (!s.length_ft) { console.log(`${y}/${sid}: skipped, no confirmed size in catalog`); continue; }
     const ref = findRef(s.slug);
     if (!ref && !flag('no-ref')) throw new Error(`missing refs/${s.slug}.png (top-down shell render). Add it or pass --no-ref.`);
-    const { marked, widthPct } = await drawMarkedBox(photo.buffer, photo.width, photo.height, YARDS[y].p, s);
+    const { marked, widthPct, deck } = await drawMarkedBox(photo.buffer, photo.width, photo.height, YARDS[y].p, s);
+    const mask = flag('mask') ? await editMask(photo.width, photo.height, deck) : null;
+    if (mask) writeFileSync(join(outDir, `${y}.${sid}.mask.png`), mask);
     writeFileSync(join(outDir, `${y}.${sid}.marked.jpg`), marked);
     const prompt = buildPrompt({ shellId: sid, ...DESIGN, placement: YARDS[y].p, widthPct });
     const images = [
@@ -67,7 +69,7 @@ for (const y of yards) {
       const base = { yard: y, shell: sid, provider: p, size_status: s.size_status, used_ref: !!ref, prompt, marked: `${y}.${sid}.marked.jpg`, photo: `${y}.photo.jpg` };
       if (dry) { results.push({ ...base, status: 'dry_run' }); continue; }
       if (dead[p]) { results.push({ ...base, status: 'skipped', error: dead[p] }); continue; }
-      jobs.push({ base, p, prompt, images, y, sid });
+      jobs.push({ base: { ...base, masked: !!mask }, p, prompt, images, mask, y, sid });
     }
   }
 }
@@ -77,12 +79,12 @@ const CONC = +arg('concurrency', 4);
 let next = 0;
 async function worker() {
   while (next < jobs.length) {
-    const { base, p, prompt, images, y, sid } = jobs[next++];
+    const { base, p, prompt, images, mask, y, sid } = jobs[next++];
     if (dead[p]) { results.push({ ...base, status: 'skipped', error: dead[p] }); continue; }
     const tag = `${y}/${sid}/${p}`;
     console.log(`${tag} ... started`);
     try {
-      const r = await render(p, { prompt, images });
+      const r = await render(p, { prompt, images, mask });
       const file = `${y}.${sid}.${p}.png`;
       writeFileSync(join(outDir, file), r.image);
       results.push({ ...base, status: 'ok', render: file, model: r.model, ms: r.ms, cost_usd: r.costUsd, usage: r.usage });
