@@ -39,6 +39,7 @@ const run = new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
 const outDir = join(ROOT, 'out', run); mkdirSync(outDir, { recursive: true });
 const findRef = slug => ['png', 'jpg', 'webp'].map(e => join(ROOT, 'refs', `${slug}.${e}`)).find(existsSync);
 const results = [];
+const jobs = [];
 const dead = {}; // provider -> reason, after a billing/quota error
 
 for (const y of yards) {
@@ -66,21 +67,36 @@ for (const y of yards) {
       const base = { yard: y, shell: sid, provider: p, size_status: s.size_status, used_ref: !!ref, prompt, marked: `${y}.${sid}.marked.jpg`, photo: `${y}.photo.jpg` };
       if (dry) { results.push({ ...base, status: 'dry_run' }); continue; }
       if (dead[p]) { results.push({ ...base, status: 'skipped', error: dead[p] }); continue; }
-      process.stdout.write(`${y}/${sid}/${p} ... `);
-      try {
-        const r = await render(p, { prompt, images });
-        const file = `${y}.${sid}.${p}.png`;
-        writeFileSync(join(outDir, file), r.image);
-        results.push({ ...base, status: 'ok', render: file, model: r.model, ms: r.ms, cost_usd: r.costUsd, usage: r.usage });
-        console.log(`ok ${(r.ms / 1000).toFixed(1)}s${r.costUsd != null ? ` $${r.costUsd.toFixed(3)}` : ''}`);
-      } catch (e) {
-        results.push({ ...base, status: 'error', error: e.message });
-        console.log(`error: ${e.message}`);
-        if (/insufficient_quota|credit|billing|limit: 0/i.test(e.message)) { dead[p] = `account has no credit/billing: ${e.message.slice(0, 120)}`; console.log(`  -> skipping remaining ${p} renders`); }
-      }
+      jobs.push({ base, p, prompt, images, y, sid });
     }
   }
 }
+
+// Run renders with limited concurrency (each takes ~1-2 min).
+const CONC = +arg('concurrency', 4);
+let next = 0;
+async function worker() {
+  while (next < jobs.length) {
+    const { base, p, prompt, images, y, sid } = jobs[next++];
+    if (dead[p]) { results.push({ ...base, status: 'skipped', error: dead[p] }); continue; }
+    const tag = `${y}/${sid}/${p}`;
+    console.log(`${tag} ... started`);
+    try {
+      const r = await render(p, { prompt, images });
+      const file = `${y}.${sid}.${p}.png`;
+      writeFileSync(join(outDir, file), r.image);
+      results.push({ ...base, status: 'ok', render: file, model: r.model, ms: r.ms, cost_usd: r.costUsd, usage: r.usage });
+      console.log(`${tag} ok ${(r.ms / 1000).toFixed(1)}s${r.costUsd != null ? ` $${r.costUsd.toFixed(3)}` : ''}`);
+    } catch (e) {
+      results.push({ ...base, status: 'error', error: e.message });
+      console.log(`${tag} error: ${e.message}`);
+      if (/insufficient_quota|credit|billing|limit: 0/i.test(e.message)) dead[p] = `account has no credit/billing: ${e.message.slice(0, 120)}`;
+    }
+  }
+}
+await Promise.all(Array.from({ length: CONC }, worker));
+const order = r => [r.yard, r.shell, r.provider].join('.');
+results.sort((a, b) => order(a).localeCompare(order(b)));
 
 writeFileSync(join(outDir, 'results.json'), JSON.stringify(results, null, 2));
 const cols = ['yard', 'shell', 'provider', 'model', 'status', 'ms', 'cost_usd', 'used_ref', 'size_status', 'render', 'error'];
