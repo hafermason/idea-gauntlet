@@ -1,0 +1,16 @@
+{
+  "name": "aqua360-phase1",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "phase1": "NODE_USE_ENV_PROXY=1 OPENAI_API_KEY=${OPENAI_API_KEY:-proxy-injected} GEMINI_API_KEY=${GEMINI_API_KEY:-proxy-injected} node scripts/phase1.mjs",
+    "phase1:dry": "node scripts/phase1.mjs --dry-run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.34.5"
+  },
+  "type": "module"
+}

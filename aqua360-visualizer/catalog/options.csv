@@ -1,0 +1,12 @@
+id,kind,name,detail,prompt_sentence
+night,color,Night Sky,#1F5C94,
+ocean,color,Ocean Blue,#2A8BC9,
+sapphire,color,Sapphire Blue,#3FB2DA,
+concrete,decking,Brushed concrete,needs Ben's confirmation,
+travertine,decking,Travertine pavers,needs Ben's confirmation,
+stamped,decking,Stamped concrete,needs Ben's confirmation,
+ledge_purity,addon,Tanning ledge (Purity),"rectangular, 7' 8"" x 15' 8"", 10"" deep",Include a shallow rectangular tanning ledge about 7 feet 8 inches by 15 feet 8 inches at one end of the pool.
+ledge_symmetry,addon,Tanning ledge (Symmetry),"half round, 8' 4"" x 16', 10"" deep",Include a shallow half-round tanning ledge about 8 feet 4 inches by 16 feet at one end of the pool.
+spa_blessing,addon,Spa (Blessing),round,"Add a raised round fiberglass spa attached to one long side, with matching coping."
+spa_refinement,addon,Spa (Refinement),rectangular,"Add a raised rectangular fiberglass spa attached to one long side, with matching coping."
+cover_mizu,addon,Auto cover (Mizu),,"Show a recessed automatic cover track along the long sides, cover open."
